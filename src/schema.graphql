@@ -1,0 +1,125 @@
+# This "input" configures a global authorization rule to enable public access to
+# all models in this schema. Learn more about authorization rules here: https://docs.amplify.aws/cli/graphql/auth
+input AMPLIFY { globalAuthRule: AuthRule = { allow: public } } # FOR TESTING ONLY!
+
+type Address {
+  address1: String
+  address2: String
+  city: String
+  state: String
+  zipCode: String
+}
+
+type Phone {
+  number: String!
+  extension: String
+ # type: PhoneType
+}
+
+
+type Payment
+  @model
+  @key(fields: ["accountId", "id"])
+  @key(name: "byCustomerId", fields: ["customerId", "paymentDate"], queryField: "paymentsByCustomerId") {
+  id: ID!
+  accountId: ID!
+  locationId: ID!
+  # Change to tenantId
+  customerId: ID!
+  paymentDate: AWSDateTime!
+  paymentAmount: Float!
+  unitId: ID!
+  amountDue: Float!
+  paymentType: PaymentType!
+  checkNumber: String
+}
+
+
+type Owner
+    @model
+    @key(fields: ["accountId", "id"]) {
+        id: ID!
+        accountId: ID!
+        phones: [Phone]
+        firstName: String
+        lastName: String
+        email: String
+        address: String
+        # orders: [Order]
+        # paymentMethods: [PaymentMethod]
+    }
+
+type Account
+  id: ID!
+  name: String!
+}
+
+type User
+  @model
+  @auth(rules: [
+    { allow: public, operations: [read], provider: iam },
+    { allow: private, operations: [read] },
+    { allow: groups, groups: ["superadmin"] }
+  ]) {
+  id: ID!
+  username: String!
+  password: String! # Demo user only - do not store password like this!
+  picture: S3Object
+  documents: [S3Object!]
+}
+
+type Order @model {
+  id: ID!
+  customerID: ID! @index(name: "byCustomerByStatusByDate", sortKeyFields: ["status", "date"]) @index(name: "byCustomerByDate", sortKeyFields: ["date"])
+  accountRepresentativeID: ID! @index(name: "byRepresentativebyDate", sortKeyFields: ["date"])
+  productID: ID! @index(name: "byProduct", sortKeyFields: ["id"])
+  status: String!
+  amount: Int!
+  date: String!
+}
+
+type Customer @model {
+  id: ID!
+  name: String!
+  phoneNumber: String
+  accountRepresentativeID: ID! @index(name: "byRepresentative", sortKeyFields: ["id"])
+  ordersByDate: [Order] @hasMany(indexName: "byCustomerByDate", fields: ["id"])
+  ordersByStatusDate: [Order] @hasMany(indexName: "byCustomerByStatusByDate", fields: ["id"])
+}
+
+type Employee @model {
+  id: ID!
+  name: String! @index(name: "byName", queryField: "employeeByName", sortKeyFields: ["id"])
+  startDate: String!
+  phoneNumber: String!
+  warehouseID: ID! @index(name: "byWarehouse", sortKeyFields: ["id"])
+  jobTitle: String! @index(name: "byTitle", queryField: "employeesByJobTitle", sortKeyFields: ["id"])
+  newHire: String! @index(name: "newHire", queryField: "employeesNewHire", sortKeyFields: ["id"]) @index(name: "newHireByStartDate", queryField: "employeesNewHireByStartDate", sortKeyFields: ["startDate"])
+}
+
+type Warehouse @model {
+  id: ID!
+  employees: [Employee] @hasMany(indexName: "byWarehouse", fields: ["id"])
+}
+
+type AccountRepresentative @model {
+  id: ID!
+  customers: [Customer] @hasMany(indexName: "byRepresentative", fields: ["id"])
+  orders: [Order] @hasMany(indexName: "byRepresentativebyDate", fields: ["id"])
+  orderTotal: Int
+  salesPeriod: String @index(name: "bySalesPeriodByOrderTotal", queryField: "repsByPeriodAndTotal", sortKeyFields: ["orderTotal"])
+}
+
+type Inventory @model {
+  productID: ID! @primaryKey(sortKeyFields: ["warehouseID"])
+  warehouseID: ID! @index(name: "byWarehouseID", queryField: "itemsByWarehouseID")
+  inventoryAmount: Int!
+}
+
+type Product @model {
+  id: ID!
+  name: String!
+  orders: [Order] @hasMany(indexName: "byProduct", fields: ["id"])
+  inventories: [Inventory] @hasMany(fields: ["id"])
+}
+
