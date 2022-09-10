@@ -2,12 +2,9 @@
 /* eslint-disable */
 // this is an auto generated file. This will be overwritten
 
-export const createBlog = /* GraphQL */ `
-  mutation CreateBlog(
-    $input: CreateBlogInput!
-    $condition: ModelBlogConditionInput
-  ) {
-    createBlog(input: $input, condition: $condition) {
+export const onCreateBlog = /* GraphQL */ `
+  subscription OnCreateBlog($filter: ModelSubscriptionBlogFilterInput) {
+    onCreateBlog(filter: $filter) {
       id
       name
       posts {
@@ -25,12 +22,9 @@ export const createBlog = /* GraphQL */ `
     }
   }
 `;
-export const updateBlog = /* GraphQL */ `
-  mutation UpdateBlog(
-    $input: UpdateBlogInput!
-    $condition: ModelBlogConditionInput
-  ) {
-    updateBlog(input: $input, condition: $condition) {
+export const onUpdateBlog = /* GraphQL */ `
+  subscription OnUpdateBlog($filter: ModelSubscriptionBlogFilterInput) {
+    onUpdateBlog(filter: $filter) {
       id
       name
       posts {
@@ -48,12 +42,9 @@ export const updateBlog = /* GraphQL */ `
     }
   }
 `;
-export const deleteBlog = /* GraphQL */ `
-  mutation DeleteBlog(
-    $input: DeleteBlogInput!
-    $condition: ModelBlogConditionInput
-  ) {
-    deleteBlog(input: $input, condition: $condition) {
+export const onDeleteBlog = /* GraphQL */ `
+  subscription OnDeleteBlog($filter: ModelSubscriptionBlogFilterInput) {
+    onDeleteBlog(filter: $filter) {
       id
       name
       posts {
@@ -71,12 +62,9 @@ export const deleteBlog = /* GraphQL */ `
     }
   }
 `;
-export const createPost = /* GraphQL */ `
-  mutation CreatePost(
-    $input: CreatePostInput!
-    $condition: ModelPostConditionInput
-  ) {
-    createPost(input: $input, condition: $condition) {
+export const onCreatePost = /* GraphQL */ `
+  subscription OnCreatePost($filter: ModelSubscriptionPostFilterInput) {
+    onCreatePost(filter: $filter) {
       id
       title
       blog {
@@ -104,12 +92,9 @@ export const createPost = /* GraphQL */ `
     }
   }
 `;
-export const updatePost = /* GraphQL */ `
-  mutation UpdatePost(
-    $input: UpdatePostInput!
-    $condition: ModelPostConditionInput
-  ) {
-    updatePost(input: $input, condition: $condition) {
+export const onUpdatePost = /* GraphQL */ `
+  subscription OnUpdatePost($filter: ModelSubscriptionPostFilterInput) {
+    onUpdatePost(filter: $filter) {
       id
       title
       blog {
@@ -137,12 +122,9 @@ export const updatePost = /* GraphQL */ `
     }
   }
 `;
-export const deletePost = /* GraphQL */ `
-  mutation DeletePost(
-    $input: DeletePostInput!
-    $condition: ModelPostConditionInput
-  ) {
-    deletePost(input: $input, condition: $condition) {
+export const onDeletePost = /* GraphQL */ `
+  subscription OnDeletePost($filter: ModelSubscriptionPostFilterInput) {
+    onDeletePost(filter: $filter) {
       id
       title
       blog {
@@ -170,12 +152,9 @@ export const deletePost = /* GraphQL */ `
     }
   }
 `;
-export const createComment = /* GraphQL */ `
-  mutation CreateComment(
-    $input: CreateCommentInput!
-    $condition: ModelCommentConditionInput
-  ) {
-    createComment(input: $input, condition: $condition) {
+export const onCreateComment = /* GraphQL */ `
+  subscription OnCreateComment($filter: ModelSubscriptionCommentFilterInput) {
+    onCreateComment(filter: $filter) {
       id
       post {
         id
@@ -200,12 +179,9 @@ export const createComment = /* GraphQL */ `
     }
   }
 `;
-export const updateComment = /* GraphQL */ `
-  mutation UpdateComment(
-    $input: UpdateCommentInput!
-    $condition: ModelCommentConditionInput
-  ) {
-    updateComment(input: $input, condition: $condition) {
+export const onUpdateComment = /* GraphQL */ `
+  subscription OnUpdateComment($filter: ModelSubscriptionCommentFilterInput) {
+    onUpdateComment(filter: $filter) {
       id
       post {
         id
@@ -230,12 +206,9 @@ export const updateComment = /* GraphQL */ `
     }
   }
 `;
-export const deleteComment = /* GraphQL */ `
-  mutation DeleteComment(
-    $input: DeleteCommentInput!
-    $condition: ModelCommentConditionInput
-  ) {
-    deleteComment(input: $input, condition: $condition) {
+export const onDeleteComment = /* GraphQL */ `
+  subscription OnDeleteComment($filter: ModelSubscriptionCommentFilterInput) {
+    onDeleteComment(filter: $filter) {
       id
       post {
         id

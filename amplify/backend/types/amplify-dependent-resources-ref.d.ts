@@ -1,13 +1,13 @@
 export type AmplifyDependentResourcesAttributes = {
     "api": {
-        "inventoryapi": {
+        "hackinventory": {
             "GraphQLAPIKeyOutput": "string",
             "GraphQLAPIIdOutput": "string",
             "GraphQLAPIEndpointOutput": "string"
         }
     },
     "auth": {
-        "hackinventory4aca7156": {
+        "hackinventory9a269ec0": {
             "IdentityPoolId": "string",
             "IdentityPoolName": "string",
             "UserPoolId": "string",

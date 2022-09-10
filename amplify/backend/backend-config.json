@@ -1,6 +1,6 @@
 {
   "api": {
-    "inventoryapi": {
+    "hackinventory": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -12,20 +12,13 @@
               "apiKeyExpirationDays": 7
             }
           },
-          "additionalAuthenticationProviders": [
-            {
-              "authenticationType": "AMAZON_COGNITO_USER_POOLS",
-              "userPoolConfig": {
-                "userPoolId": "authhackinventory4aca7156"
-              }
-            }
-          ]
+          "additionalAuthenticationProviders": []
         }
       }
     }
   },
   "auth": {
-    "hackinventory4aca7156": {
+    "hackinventory9a269ec0": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
