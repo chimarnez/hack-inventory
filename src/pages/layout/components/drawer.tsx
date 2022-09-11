@@ -27,3 +27,27 @@ export const Drawer = styled(MuiDrawer, {
     }),
   },
 }));
+
+export const ResponsiveDrawer = (props: any) => {
+  return (
+    <MuiDrawer
+      container={document.body || undefined}
+      variant="temporary"
+      open={props.open}
+      onClose={props.onClose}
+      ModalProps={{
+        keepMounted: true, // Better open performance on mobile.
+      }}
+      sx={{
+        display: { xs: "block", sm: "none" },
+        "& .MuiDrawer-paper": {
+          boxSizing: "border-box",
+          width: drawerWidth,
+          backgroundColor: (theme) => theme.palette.primary.main,
+        },
+      }}
+    >
+      {props.children}
+    </MuiDrawer>
+  );
+};

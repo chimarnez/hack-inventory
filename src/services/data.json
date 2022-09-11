@@ -1,0 +1,3164 @@
+[
+  {
+    "id": "1",
+    "name": "100LQLEDT65MVN",
+    "description": "EXT REFLECTOR LED100W100-277V6500K8500LM",
+    "stock": "9"
+  },
+  {
+    "id": "2",
+    "name": "10HLED762MV30N",
+    "description": "EXTERIOR ACENTO LED 10W 100-240V 3000K",
+    "stock": "21"
+  },
+  {
+    "id": "3",
+    "name": "10YD101MVB",
+    "description": "INTERIOR EMPOTRADOS S/L100-240/12VGX5.3",
+    "stock": "13"
+  },
+  {
+    "id": "4",
+    "name": "24PTLLEDR30MVB",
+    "description": "Lampara Plafon LED de sobreponer 24w, Luz suave calida, Interior",
+    "stock": "1"
+  },
+  {
+    "id": "5",
+    "name": "2PACK_MLED-2H",
+    "description": "\"\"Kit de 2 pzas Conector medio para unir mangueras entre si,\"",
+    "stock": "2"
+  },
+  {
+    "id": "6",
+    "name": "2PACK_MLED-2H-1/25",
+    "description": "kit de 2 pzas Fuente de poder para manguera de 2 Hilos.",
+    "stock": "2"
+  },
+  {
+    "id": "7",
+    "name": "2Pack-SM-22-N",
+    "description": "2 PACK de Sensor movimiento 180 grados infrarrojo switch para pared",
+    "stock": "10"
+  },
+  {
+    "id": "8",
+    "name": "2Pack-SM-360-1S-N",
+    "description": "2 PACK Sensor movimiento 360grados infrarrojo con sensor para sobreponer en techo",
+    "stock": "10"
+  },
+  {
+    "id": "9",
+    "name": "30HLED764MV30N",
+    "description": "EXTERIOR ACENTO LED 30W 100-240V 3000K",
+    "stock": "6"
+  },
+  {
+    "id": "10",
+    "name": "3DG9LED30V300C",
+    "description": "LAMPARA LED AMPOLLETA 3W127V3000KG9350LM",
+    "stock": "144"
+  },
+  {
+    "id": "11",
+    "name": "5PACK_MLED-2-5050SMD",
+    "description": "kit de 5 pzas Accesorio de union en esquinas para manguera 5050SMD",
+    "stock": "2"
+  },
+  {
+    "id": "12",
+    "name": "5PACK_MLED-2H-2/25",
+    "description": "kit de 5 pzas Conector en T para Manguera 2 hilos marca Tlapps",
+    "stock": "2"
+  },
+  {
+    "id": "13",
+    "name": "5PACK_MLED-2H-3/25",
+    "description": "kit de 5 pzas Conector en X para Manguera 2 hilos marca Tlapps",
+    "stock": "2"
+  },
+  {
+    "id": "14",
+    "name": "5PACK_MLED-2H-8/25",
+    "description": "kit de 5 pzas Accesorio para conectar la manguera.",
+    "stock": "2"
+  },
+  {
+    "id": "15",
+    "name": "5PACK_MLED-2-SMD",
+    "description": "kit de 5 pzas Accesorio de union en esquinas para manguera 3528SMD",
+    "stock": "2"
+  },
+  {
+    "id": "16",
+    "name": "5PACK_MLED-3-5050SMD",
+    "description": "kit de 5 pzas Accesorio de uni�n para mangueras 5050SMD",
+    "stock": "2"
+  },
+  {
+    "id": "17",
+    "name": "5PACK_MLED-3-SMD",
+    "description": "kit de 5 pzas Accesorio de uni�n para mangueras 3528SMD",
+    "stock": "2"
+  },
+  {
+    "id": "18",
+    "name": "5PACK_MLED-4-SMD",
+    "description": "kit de 5 pzas Accesorio de uni�n en L para mangueras 3528SMD",
+    "stock": "2"
+  },
+  {
+    "id": "19",
+    "name": "5PACK_MLED-60-2",
+    "description": "kit de 5 pzas Accesorio para conectar tira  a Driver plug-in",
+    "stock": "2"
+  },
+  {
+    "id": "20",
+    "name": "5PACK_MLED-60-2-2835",
+    "description": "kit de 5 pzas Accesorio para conectar tira a Driver plug-in",
+    "stock": "2"
+  },
+  {
+    "id": "21",
+    "name": "5PACK_MLED-60-7-KSILICON",
+    "description": "Kit 5 pzas de Silic�n con tapas finales",
+    "stock": "2"
+  },
+  {
+    "id": "22",
+    "name": "6YDLED430MV40B",
+    "description": "INT EMP LED 6W100-240V4000K320LM",
+    "stock": "100"
+  },
+  {
+    "id": "23",
+    "name": "ALED-S56",
+    "description": "luminario para alberca LED PAR-56",
+    "stock": "1070"
+  },
+  {
+    "id": "24",
+    "name": "ALED-S56/RGB",
+    "description": "luminario para alberca LED PAR-56 RGB",
+    "stock": "1371"
+  },
+  {
+    "id": "25",
+    "name": "AMPL-12V-180W-MCR",
+    "description": "Amplificador Monocromatico 12V 180W IP65",
+    "stock": "336"
+  },
+  {
+    "id": "26",
+    "name": "AQUA-12W-REFLEC",
+    "description": "\"\"REFLECTOR SUMERGIBLE RGB DE SOBREPONER A BASE DE ADHESIVO PARA ALBERCA, BOTE, MUELLE etc.\"",
+    "stock": "41"
+  },
+  {
+    "id": "27",
+    "name": "AQUA-20W-REFLEC",
+    "description": "\"\"REFLECTOR SUMERGIBLE RGB DE SOBREPONER A BASE DE TORNILLO PARA ALBERCA, BOTE, MUELLE etc.\"",
+    "stock": "1"
+  },
+  {
+    "id": "28",
+    "name": "AQUA-9W-FS",
+    "description": "LUMINARIO RGB SUMERGIBLE PARA FUENTES Y ESTANQUES",
+    "stock": "3"
+  },
+  {
+    "id": "29",
+    "name": "AQUA-AF90-AZ",
+    "description": "LUZ LED PARA CHORRO DE ALBERCA",
+    "stock": "9"
+  },
+  {
+    "id": "30",
+    "name": "AQUA-AF90-BC",
+    "description": "LUZ LED PARA CHORRO DE ALBERCA",
+    "stock": "35"
+  },
+  {
+    "id": "31",
+    "name": "AQUA-AF90-LD",
+    "description": "LUZ LED PARA CHORRO DE ALBERCA",
+    "stock": "129"
+  },
+  {
+    "id": "32",
+    "name": "AQUA-COB-PAR56-LD",
+    "description": "LUMINARIO PAR 56 COB PARA ALBERCA",
+    "stock": "162"
+  },
+  {
+    "id": "33",
+    "name": "AQUA-COB-PAR56-WW",
+    "description": "LUMINARIO PAR 56 COB PARA ALBERCA",
+    "stock": "76"
+  },
+  {
+    "id": "34",
+    "name": "AQUA-HM",
+    "description": "Housing metalico para luminarios de Alberca",
+    "stock": "654"
+  },
+  {
+    "id": "35",
+    "name": "AQUA-T90-P56-BC",
+    "description": "\"\"LUMINARIO PAR56  DE REMPLAZO , BLANCO CALIDO\"",
+    "stock": "80"
+  },
+  {
+    "id": "36",
+    "name": "AQUA-T90-P56-LD",
+    "description": "\"\"LUMINARIO PAR56  DE REMPLAZO , LUZ DE DIA\"",
+    "stock": "99"
+  },
+  {
+    "id": "37",
+    "name": "AQUA-TC",
+    "description": "TERMOCONTRACTIL PARA CABLE",
+    "stock": "976"
+  },
+  {
+    "id": "38",
+    "name": "ARTNET-DMX-8S",
+    "description": "Controlador",
+    "stock": "1"
+  },
+  {
+    "id": "39",
+    "name": "BP-T8-120",
+    "description": "Base Portal�mpara Para Tubo T8 120 cm",
+    "stock": "247"
+  },
+  {
+    "id": "40",
+    "name": "BP-T8-60",
+    "description": "Base Portal�mpara Para Tubo T8 60 cm",
+    "stock": "104"
+  },
+  {
+    "id": "41",
+    "name": "Catalogo_TLapps_2022",
+    "description": "Cat�logo 2022 TLapps",
+    "stock": "165"
+  },
+  {
+    "id": "42",
+    "name": "Catalogo_TLappsddeco_2022",
+    "description": "Cat�logo TLapps ddeco 2022",
+    "stock": "2990"
+  },
+  {
+    "id": "43",
+    "name": "CC-MF-IP68",
+    "description": "CAJA DE CONEXION IP68",
+    "stock": "287"
+  },
+  {
+    "id": "44",
+    "name": "CL-1-3528",
+    "description": "Cable alimentador con clavija para Manguera de LED 3528SMD 127V",
+    "stock": "171"
+  },
+  {
+    "id": "45",
+    "name": "CL-3-5050",
+    "description": "Conector medio para Manguera de LED 5050SMD 127V",
+    "stock": "558"
+  },
+  {
+    "id": "46",
+    "name": "CL-LED3528-127V-25M-IP65/30",
+    "description": "Manguera de LED 3528SMD 60/m 127V 25metros IP65 3000�K",
+    "stock": "107"
+  },
+  {
+    "id": "47",
+    "name": "CL-LED3528-127V-25M-IP65/65",
+    "description": "Manguera de LED 3528SMD 60/m 127V 25metros IP65 6500�K",
+    "stock": "1"
+  },
+  {
+    "id": "48",
+    "name": "CL-LED3528-12V-5M/30",
+    "description": "Tira flexible de LED 3528SMD 60/m 12V 5metros 3000�K",
+    "stock": "842"
+  },
+  {
+    "id": "49",
+    "name": "CL-LED3528-12V-5M/65",
+    "description": "Tira flexible de LED 3528SMD 60/m 12V 5metros 6500�K",
+    "stock": "523"
+  },
+  {
+    "id": "50",
+    "name": "CL-LED3528-12V-5M-IP65/30",
+    "description": "Tira flexible de LED 3528SMD 60/m 12V 5metros IP65 3000�K",
+    "stock": "223"
+  },
+  {
+    "id": "51",
+    "name": "CL-LED5050-127V-25M-IP65/30",
+    "description": "Manguera de LED 5050SMD 60/m 127V 25metros IP65 3000�K",
+    "stock": "49"
+  },
+  {
+    "id": "52",
+    "name": "CL-LED5050-127V-25M-IP65/65",
+    "description": "Manguera de LED 5050SMD 60/m 127V 25metros IP65 6500�K",
+    "stock": "2"
+  },
+  {
+    "id": "53",
+    "name": "CL-LED5050-12V-5M/30",
+    "description": "Tira flexible de LED 5050SMD 60/m 12V 5metros 3000�K",
+    "stock": "219"
+  },
+  {
+    "id": "54",
+    "name": "CMLED-IP-CP",
+    "description": "Cable conector para tira IP68 con led 2835",
+    "stock": "6"
+  },
+  {
+    "id": "55",
+    "name": "CMLED-IP-CP-5050",
+    "description": "Cable conector para tira IP68 con led 5050",
+    "stock": "14"
+  },
+  {
+    "id": "56",
+    "name": "CMLED-IP-CP-RGB",
+    "description": "Cable conector para tira IP68 RGB",
+    "stock": "83"
+  },
+  {
+    "id": "57",
+    "name": "CMLED-IP-TCT",
+    "description": "Cable conector tira a tira grado IP68 con led 2835",
+    "stock": "16"
+  },
+  {
+    "id": "58",
+    "name": "CMLED-IP-TCT-5050",
+    "description": "Cable conector tira a tira grado IP68 con led 5050",
+    "stock": "12"
+  },
+  {
+    "id": "59",
+    "name": "CMLED-IP-TCT-RGB",
+    "description": "Cable conector tira a tira grado IP68 RGB",
+    "stock": "12"
+  },
+  {
+    "id": "60",
+    "name": "CMLED-IP-TT",
+    "description": "Conector tira a tira grado IP68 con led 2835",
+    "stock": "16"
+  },
+  {
+    "id": "61",
+    "name": "CMLED-IP-TT-5050",
+    "description": "Conector tira a tira grado IP68 con led 5050",
+    "stock": "190"
+  },
+  {
+    "id": "62",
+    "name": "CMLED-IP-TT-RGB",
+    "description": "Conector tira a tira grado IP68 RGB",
+    "stock": "45"
+  },
+  {
+    "id": "63",
+    "name": "CO1106BBCB",
+    "description": "TRAZZO GRAZER 18W 3000K 127-220V BCO",
+    "stock": "37"
+  },
+  {
+    "id": "64",
+    "name": "CO5112BBCA",
+    "description": "INTERIOR LED 30W 100-277V 3000K BLANCO",
+    "stock": "11"
+  },
+  {
+    "id": "65",
+    "name": "CO8111NBNA",
+    "description": "Trazzo 40W 100 4000K 127-277V Aten Ngo",
+    "stock": "6"
+  },
+  {
+    "id": "66",
+    "name": "CON-X-3528",
+    "description": "Conector en X para unir tiras flexibles de interior de LED 3528 SMD 12V",
+    "stock": "6724"
+  },
+  {
+    "id": "67",
+    "name": "CON-X-5050",
+    "description": "Conector en X para unir tiras flexibles de interior de LED 5050 SMD y 2835 SMD 12V",
+    "stock": "1785"
+  },
+  {
+    "id": "68",
+    "name": "CON-X-RGB",
+    "description": "Conector en X para unir tiras flexibles de interior de LED RGB SMD 12V",
+    "stock": "2823"
+  },
+  {
+    "id": "69",
+    "name": "C-RGBW-TUYA",
+    "description": "Control TUYA RGBW",
+    "stock": "385"
+  },
+  {
+    "id": "70",
+    "name": "CR-MF-IP68",
+    "description": "CONECTOR RECTO IP68",
+    "stock": "152"
+  },
+  {
+    "id": "71",
+    "name": "CTLLED-005/30/N",
+    "description": "Luminario de techo, suspendido led para interior",
+    "stock": "3"
+  },
+  {
+    "id": "72",
+    "name": "CT-MF-IP68",
+    "description": "CONECTOR EN T IP68",
+    "stock": "254"
+  },
+  {
+    "id": "73",
+    "name": "CTRL-12V-REFLED-RGBW",
+    "description": "\"\"Controlador RGBW a 12V para reflectores RGBW, incluye control remoto RF\"",
+    "stock": "148"
+  },
+  {
+    "id": "74",
+    "name": "DH-98A-S",
+    "description": "Detector de humo fotoel�ctrico Version Star",
+    "stock": "7068"
+  },
+  {
+    "id": "75",
+    "name": "DIMLED-127V-200W",
+    "description": "Interruptor Dimmer regulador de intensidad para casa",
+    "stock": "1570"
+  },
+  {
+    "id": "76",
+    "name": "DRIVERLED-12V-100W-IP66",
+    "description": "Driver con salida a 12V de 100 W IP66 para proyecto (aluminio)",
+    "stock": "6"
+  },
+  {
+    "id": "77",
+    "name": "DRIVERLED-12V-100W-IP67-O",
+    "description": "\"\"Driver 12 V DC, 100 Watts, IP67 uso exterior, proyectos\"",
+    "stock": "345"
+  },
+  {
+    "id": "78",
+    "name": "DRIVERLED-12V-100W-PR",
+    "description": "Driver con salida a 12V de 100 W para proyecto (aluminio)",
+    "stock": "4948"
+  },
+  {
+    "id": "79",
+    "name": "DRIVERLED-12V-12W-PI",
+    "description": "Driver con salida a 12V de 12W para contacto plug-in",
+    "stock": "143"
+  },
+  {
+    "id": "80",
+    "name": "DRIVERLED-12V-150W-PR",
+    "description": "Driver con salida a 12V de 150 W para proyecto (aluminio)",
+    "stock": "1117"
+  },
+  {
+    "id": "81",
+    "name": "DRIVERLED-12V-15W-PR",
+    "description": "Driver con salida a 12V de 15W para proyecto (aluminio)",
+    "stock": "282"
+  },
+  {
+    "id": "82",
+    "name": "DRIVERLED-12V-200W-IP67-O",
+    "description": "\"\"Driver 12 V DC, 200 Watts, IP67 uso exterior, proyectos\"",
+    "stock": "108"
+  },
+  {
+    "id": "83",
+    "name": "DRIVERLED-12V-200W-PR",
+    "description": "Driver con salida a 12V de 200 W para proyecto (aluminio)",
+    "stock": "6"
+  },
+  {
+    "id": "84",
+    "name": "DRIVERLED-12V-360W-PR",
+    "description": "Driver con salida a 12V de 360 W para proyecto (aluminio)",
+    "stock": "822"
+  },
+  {
+    "id": "85",
+    "name": "DRIVERLED-12V-36W-IP67-O",
+    "description": "\"\"Driver 12 V DC, 36 Watts, IP67 uso exterior, proyectos\"",
+    "stock": "555"
+  },
+  {
+    "id": "86",
+    "name": "DRIVERLED-12V-500W-PR",
+    "description": "Driver con salida a 12V de 500 W para proyecto (aluminio)",
+    "stock": "272"
+  },
+  {
+    "id": "87",
+    "name": "DriverLED-12V-6W-PI",
+    "description": "Driver Plug-In de 6W",
+    "stock": "562"
+  },
+  {
+    "id": "88",
+    "name": "DRIVERLED-12V-72W-PI",
+    "description": "Driver con salida a 12V de 72 W para contacto plug-in",
+    "stock": "390"
+  },
+  {
+    "id": "89",
+    "name": "DRIVERLED-24V-100W-IP67-O",
+    "description": "\"\"Driver 24 V DC, 100 Watts, IP67 uso exterior, proyectos\"",
+    "stock": "213"
+  },
+  {
+    "id": "90",
+    "name": "DRIVERLED-24V-100W-PR",
+    "description": "Driver con salida a 24V de 100 W para proyecto (aluminio)",
+    "stock": "2561"
+  },
+  {
+    "id": "91",
+    "name": "DRIVERLED-24V-200W-IP67-O",
+    "description": "\"\"Driver 24 V DC, 200 Watts, IP67 uso exterior, proyectos\"",
+    "stock": "112"
+  },
+  {
+    "id": "92",
+    "name": "DRIVERLED-24V-200W-PR",
+    "description": "Driver con salida a 24V de 200 W para proyecto (aluminio)",
+    "stock": "305"
+  },
+  {
+    "id": "93",
+    "name": "DRIVERLED-24V-36W-IP67-O",
+    "description": "\"\"Driver 24 V DC, 36 Watts, IP67 uso exterior, proyectos\"",
+    "stock": "589"
+  },
+  {
+    "id": "94",
+    "name": "DRIVER-SM-100W-65V",
+    "description": "Driver para Pelicula inteligente - Smart Film",
+    "stock": "65"
+  },
+  {
+    "id": "95",
+    "name": "EWINDOW-120X60/BLUE-SKY/SMF",
+    "description": "Luminario para sobreponer con simulacion de transcurso de d�a cielo azul 120x60",
+    "stock": "3"
+  },
+  {
+    "id": "96",
+    "name": "EWINDOW-120X60/CLOUDY-SKY/RMF",
+    "description": "Luminario para empotrar con simulacion de transcurso de d�a con nubes 120x60",
+    "stock": "1"
+  },
+  {
+    "id": "97",
+    "name": "EWINDOW-60X60/BLUE-SKY/RMF",
+    "description": "Luminario para empotrar con simulacion de transcurso de d�a cielo azul 60x60",
+    "stock": "2"
+  },
+  {
+    "id": "98",
+    "name": "EWINDOW-CONTROL-PANEL",
+    "description": "Panel de control para luminarias Ewindow",
+    "stock": "2"
+  },
+  {
+    "id": "99",
+    "name": "FE-720-S",
+    "description": "Fotocelda Externa",
+    "stock": "4370"
+  },
+  {
+    "id": "100",
+    "name": "FGRGBWM-442",
+    "description": "CONTROLADOR RGBW CON CONEXI�N Z-WAVE",
+    "stock": "7"
+  },
+  {
+    "id": "101",
+    "name": "FI-770/LED",
+    "description": "\"\"Fotocelda interna para cargas incandescentes,hal�genas y LED\"",
+    "stock": "5266"
+  },
+  {
+    "id": "102",
+    "name": "FI-770/LED/4-PACK",
+    "description": "4 pack - Fotocelda interna para cargas incandescentes,hal�genas y LED",
+    "stock": "2"
+  },
+  {
+    "id": "103",
+    "name": "FLUSH-DIMMER-Q-0-10V",
+    "description": "Dimmer de 0 a 10V Zwave",
+    "stock": "9"
+  },
+  {
+    "id": "104",
+    "name": "GDL-SER-127V/AZ",
+    "description": "SERIE CON GUIRNALDA LED COLOR AZUL",
+    "stock": "184"
+  },
+  {
+    "id": "105",
+    "name": "GDL-SER-127V/BC",
+    "description": "SERIE CON GUIRNALDA LED COLOR BLANCO CALIDO",
+    "stock": "1526"
+  },
+  {
+    "id": "106",
+    "name": "GDL-SER-127V/BC/2-PACK",
+    "description": "2Pack - SERIE CON GUIRNALDA LED COLOR BLANCO CALIDO",
+    "stock": "2"
+  },
+  {
+    "id": "107",
+    "name": "GDL-SER-127V/LD",
+    "description": "SERIE CON GUIRNALDA LED COLOR LUZ DE DIA",
+    "stock": "944"
+  },
+  {
+    "id": "108",
+    "name": "GDL-SER-127V/RO",
+    "description": "SERIE CON GUIRNALDA LED COLOR ROJO",
+    "stock": "69"
+  },
+  {
+    "id": "109",
+    "name": "GDL-SER-127V/VE",
+    "description": "SERIE CON GUIRNALDA LED COLOR VERDE",
+    "stock": "75"
+  },
+  {
+    "id": "110",
+    "name": "HLED-116/AL",
+    "description": "EXTERIOR MUROS LED 6W100-240V3000K",
+    "stock": "7"
+  },
+  {
+    "id": "111",
+    "name": "H-MLED-2835SMD-127V/BC",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 2835 SMD, exterior 25 m\"",
+    "stock": "840"
+  },
+  {
+    "id": "112",
+    "name": "H-MLED-2835SMD-127V/LD",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 2835 SMD, exterior 25 m\"",
+    "stock": "896"
+  },
+  {
+    "id": "113",
+    "name": "H-MLED-5050SMD-127V/BC",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 5050 SMD, exterior 25 m\"",
+    "stock": "2523"
+  },
+  {
+    "id": "114",
+    "name": "H-MLED-5050SMD-127V/LD",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 5050 SMD, exterior 25 m\"",
+    "stock": "1349"
+  },
+  {
+    "id": "115",
+    "name": "HSC6-HP-US",
+    "description": "Termostato Inteligente Aire Acondicionado Central",
+    "stock": "200"
+  },
+  {
+    "id": "116",
+    "name": "HSC8-FC4",
+    "description": "Termostato Fan coil",
+    "stock": "404"
+  },
+  {
+    "id": "117",
+    "name": "HSC-C221",
+    "description": "MODULO CONTROLADOR DE CORTINA",
+    "stock": "52"
+  },
+  {
+    "id": "118",
+    "name": "HSC-G150-US",
+    "description": "Controlador HorusPlus",
+    "stock": "121"
+  },
+  {
+    "id": "119",
+    "name": "HSC-P511-US",
+    "description": "Interruptor T�ctil Inteligente Dimmer",
+    "stock": "204"
+  },
+  {
+    "id": "120",
+    "name": "HSC-S220-US",
+    "description": "M�dulo de contacto seco Horus",
+    "stock": "6"
+  },
+  {
+    "id": "121",
+    "name": "HSC-S222",
+    "description": "M�dulo de control de cargas Horus v2.0",
+    "stock": "76"
+  },
+  {
+    "id": "122",
+    "name": "HSC-S511-US",
+    "description": "Interruptor T�ctil Inteligente Sencillo",
+    "stock": "213"
+  },
+  {
+    "id": "123",
+    "name": "HSC-S512-US",
+    "description": "Interruptor T�ctil Inteligente Doble",
+    "stock": "129"
+  },
+  {
+    "id": "124",
+    "name": "HSC-S513-US",
+    "description": "Interruptor T�ctil Inteligente Triple",
+    "stock": "269"
+  },
+  {
+    "id": "125",
+    "name": "HTIP65-2835LD-CON24W",
+    "description": "Kit de tira led luz de d�a para exterior con convertidor de corriente",
+    "stock": "2"
+  },
+  {
+    "id": "126",
+    "name": "H-TLED-120-2835/BC",
+    "description": "\"\"Tira flexible 120 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "791"
+  },
+  {
+    "id": "127",
+    "name": "H-TLED-120-2835/LD",
+    "description": "\"\"Tira flexible 120 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "623"
+  },
+  {
+    "id": "128",
+    "name": "H-TLED-60-2835/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "1046"
+  },
+  {
+    "id": "129",
+    "name": "H-TLED-60-2835/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "8080"
+  },
+  {
+    "id": "130",
+    "name": "H-TLED-60-5050/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, interior\"",
+    "stock": "721"
+  },
+  {
+    "id": "131",
+    "name": "H-TLED-60-IP65-2835/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, exterior\"",
+    "stock": "3247"
+  },
+  {
+    "id": "132",
+    "name": "H-TLED-60-IP65-2835/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, exterior\"",
+    "stock": "717"
+  },
+  {
+    "id": "133",
+    "name": "H-TLED-60-IP65-5050/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, exterior\"",
+    "stock": "2128"
+  },
+  {
+    "id": "134",
+    "name": "H-TLED-60-IP65-5050/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, exterior\"",
+    "stock": "2252"
+  },
+  {
+    "id": "135",
+    "name": "IN4044GBNB",
+    "description": "OCEAN ELEM LED 38W 4000K 100-260V GRIS",
+    "stock": "6"
+  },
+  {
+    "id": "136",
+    "name": "LED BAR-100/BC",
+    "description": "Barra de LED 5050 SMD 12V 100cm Blanco C�lido",
+    "stock": "169"
+  },
+  {
+    "id": "137",
+    "name": "LED BAR-150/BC",
+    "description": "Barra de LED 5050 SMD 12V 150cm Blanco C�lido",
+    "stock": "413"
+  },
+  {
+    "id": "138",
+    "name": "LED BAR-25/BC",
+    "description": "Barra de LED 5050 SMD 12V 25cm Blanco C�lido",
+    "stock": "305"
+  },
+  {
+    "id": "139",
+    "name": "LED BAR-25/LD",
+    "description": "Barra de LED 5050 SMD 12V 25cm Luz de D�a",
+    "stock": "18"
+  },
+  {
+    "id": "140",
+    "name": "LE-LED/90/SMD",
+    "description": "Luminario de 90 LED 3528 SMD 110-220V con funci�n de emergencia",
+    "stock": "4782"
+  },
+  {
+    "id": "141",
+    "name": "LT-3040-5A",
+    "description": "REPETIDOR DE PODER",
+    "stock": "10"
+  },
+  {
+    "id": "142",
+    "name": "LUM-SOL-IP54/GR",
+    "description": "Luminario para exterior IP54 con celda fotovolt�ica (panel solar) y cable USB para carga color Gris",
+    "stock": "139"
+  },
+  {
+    "id": "143",
+    "name": "LUM-SOL-IP54/NA",
+    "description": "Luminario para exterior IP54 con celda fotovolt�ica (panel solar) y cable USB para carga Naranja",
+    "stock": "2"
+  },
+  {
+    "id": "144",
+    "name": "LUM-SOL-IP54/VE",
+    "description": "Luminario para exterior IP54 con celda fotovolt�ica (panel solar) y cable USB para carga Verde",
+    "stock": "36"
+  },
+  {
+    "id": "145",
+    "name": "M5+M3-3A",
+    "description": "Controlador",
+    "stock": "1332"
+  },
+  {
+    "id": "146",
+    "name": "MIN2-1",
+    "description": "Cable con clavija y fusible para manguera de bulbos incandescentes 2 hilos",
+    "stock": "5"
+  },
+  {
+    "id": "147",
+    "name": "MIN2-50/AM",
+    "description": "Manguera redonda de bulbos incandescentes 2 hilos 50m 127V IP65 Amarillo",
+    "stock": "23"
+  },
+  {
+    "id": "148",
+    "name": "MIN2-50/AZ",
+    "description": "Manguera redonda de bulbos incandescentes 2 hilos 50m 127V IP65 Azul",
+    "stock": "43"
+  },
+  {
+    "id": "149",
+    "name": "MIN2-50/NA",
+    "description": "Manguera redonda de bulbos incandescentes 2 hilos 50m 127V IP65 Naranja",
+    "stock": "67"
+  },
+  {
+    "id": "150",
+    "name": "MIN2-50/VE",
+    "description": "Manguera redonda de bulbos incandescentes 2 hilos 50m 127V IP65 Verde",
+    "stock": "15"
+  },
+  {
+    "id": "151",
+    "name": "MLED-10M-CCT-127V",
+    "description": "Manguera flexible 120 LEDs x metro, 2835 SMD, exterior 10 m",
+    "stock": "220"
+  },
+  {
+    "id": "152",
+    "name": "MLED-10M-RGB-127V",
+    "description": "Manguera flexible 30 LEDs x metro, 5050 SMD, exterior 10 m",
+    "stock": "377"
+  },
+  {
+    "id": "153",
+    "name": "MLED-120-28.8W-5/BC",
+    "description": "\"\"Tira flexible 120 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "119"
+  },
+  {
+    "id": "154",
+    "name": "MLED-120-28.8W-5/LD",
+    "description": "\"\"Tira flexible 120 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "283"
+  },
+  {
+    "id": "155",
+    "name": "MLED-1-5050SMD",
+    "description": "Cable con clavija para manguera de LED 5050 SMD",
+    "stock": "12919"
+  },
+  {
+    "id": "156",
+    "name": "MLED-1-SMD",
+    "description": "Cable con clavija para manguera de LED SMD",
+    "stock": "36832"
+  },
+  {
+    "id": "157",
+    "name": "MLED2-25/AM",
+    "description": "Manguera redonda de LED 2 hilos 25m 127V IP65 Amarillo",
+    "stock": "15"
+  },
+  {
+    "id": "158",
+    "name": "MLED2-25/AZ",
+    "description": "Manguera redonda de LED 2 hilos 25m 127V IP65 Azul",
+    "stock": "112"
+  },
+  {
+    "id": "159",
+    "name": "MLED2-25/BC",
+    "description": "Manguera redonda de LED 2 hilos 25m 127V IP65 Blanco C�lido",
+    "stock": "1338"
+  },
+  {
+    "id": "160",
+    "name": "MLED2-25/LD",
+    "description": "Manguera redonda de LED 2 hilos 25m 127V IP65 Luz de D�a",
+    "stock": "584"
+  },
+  {
+    "id": "161",
+    "name": "MLED2-25/RO",
+    "description": "Manguera redonda de LED 2 hilos 25m 127V IP65 Rojo",
+    "stock": "7"
+  },
+  {
+    "id": "162",
+    "name": "MLED2-25/VE",
+    "description": "Manguera redonda de LED 2 hilos 25m 127V IP65 Verde",
+    "stock": "55"
+  },
+  {
+    "id": "163",
+    "name": "MLED-2-5050SMD",
+    "description": "Conector esquina 25 cm. para manguera de LED 5050 SMD 25 cm",
+    "stock": "556"
+  },
+  {
+    "id": "164",
+    "name": "MLED-2H",
+    "description": "Conector medio para manguera de LED 2 hilos",
+    "stock": "437"
+  },
+  {
+    "id": "165",
+    "name": "MLED-2H-1/25",
+    "description": "Cable con clavija para manguera de LED 2 hilos",
+    "stock": "1322"
+  },
+  {
+    "id": "166",
+    "name": "MLED-2H-2/25",
+    "description": "Conector en T",
+    "stock": "698"
+  },
+  {
+    "id": "167",
+    "name": "MLED-2H-3/25",
+    "description": "Conector en X",
+    "stock": "523"
+  },
+  {
+    "id": "168",
+    "name": "MLED-2H-4/25",
+    "description": "Conector en L",
+    "stock": "462"
+  },
+  {
+    "id": "169",
+    "name": "MLED-2H-5/25",
+    "description": "Clip pl�stico de montaje para manguera de LED 2 hilos",
+    "stock": "1173"
+  },
+  {
+    "id": "170",
+    "name": "MLED-2H-6/25",
+    "description": "Tapa fin pl�stica para manguera de LED 2 hilos",
+    "stock": "3055"
+  },
+  {
+    "id": "171",
+    "name": "MLED-2H-7/25",
+    "description": "Tubo termocotractil",
+    "stock": "2051"
+  },
+  {
+    "id": "172",
+    "name": "MLED-2H-8/25",
+    "description": "Extension 1.5 metros con conectores",
+    "stock": "402"
+  },
+  {
+    "id": "173",
+    "name": "MLED-2-SMD",
+    "description": "Conector esquina 25 cm. para manguera de LED 3528 SMD",
+    "stock": "444"
+  },
+  {
+    "id": "174",
+    "name": "MLED-3-5050SMD",
+    "description": "Conector medio para manguera de LED 5050 SMD",
+    "stock": "217"
+  },
+  {
+    "id": "175",
+    "name": "MLED-3528SMD-127V/BC",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 2835 SMD, exterior 25 m\"",
+    "stock": "10016"
+  },
+  {
+    "id": "176",
+    "name": "MLED-3528SMD-127V/LD",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 2835 SMD, exterior 25 m\"",
+    "stock": "5059"
+  },
+  {
+    "id": "177",
+    "name": "MLED-3528SMD-127V-10M/BC",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 2835 SMD, exterior 10 m\"",
+    "stock": "726"
+  },
+  {
+    "id": "178",
+    "name": "MLED-3528SMD-127V-10M/LD",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 2835 SMD, exterior 10 m\"",
+    "stock": "572"
+  },
+  {
+    "id": "179",
+    "name": "MLED-3-SMD",
+    "description": "Conector medio para manguera de LED SMD",
+    "stock": "1675"
+  },
+  {
+    "id": "180",
+    "name": "MLED-4-SMD",
+    "description": "Conector en L para manguera de LED 3528 SMD (�nicamente para cuadros)",
+    "stock": "639"
+  },
+  {
+    "id": "181",
+    "name": "MLED-5050SMD-127V/2500K",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 5050 SMD, exterior 25 m\"",
+    "stock": "455"
+  },
+  {
+    "id": "182",
+    "name": "MLED-5050SMD-127V/BC",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 5050 SMD, exterior 25 m\"",
+    "stock": "2757"
+  },
+  {
+    "id": "183",
+    "name": "MLED-5050SMD-127V/LD",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 5050 SMD, exterior 25 m\"",
+    "stock": "1315"
+  },
+  {
+    "id": "184",
+    "name": "MLED-5050SMD-127V-10M/BC",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 5050 SMD, exterior 10 m\"",
+    "stock": "604"
+  },
+  {
+    "id": "185",
+    "name": "MLED-5050SMD-127V-10M/LD",
+    "description": "\"\"Manguera flexible 60 LEDs x metro, 5050 SMD, exterior 10 m\"",
+    "stock": "422"
+  },
+  {
+    "id": "186",
+    "name": "MLED-5050SMD-DP-127V/LD",
+    "description": "\"\"Manguera de LED 5050 SMD Doble Pista, 127V, 144 LED/m, IP65, 25 metros, Luz de d�a\"",
+    "stock": "1"
+  },
+  {
+    "id": "187",
+    "name": "MLED-5-5050SMD",
+    "description": "Clip pl�stico de montaje para manguera de LED 5050 SMD",
+    "stock": "26863"
+  },
+  {
+    "id": "188",
+    "name": "MLED-5M-CCT-127V",
+    "description": "Manguera flexible 120 LEDs x metro, 2835 SMD, exterior 5 m",
+    "stock": "634"
+  },
+  {
+    "id": "189",
+    "name": "MLED-5M-RGB-127V",
+    "description": "Manguera flexible 30 LEDs x metro, 5050 SMD,  exterior 5 m",
+    "stock": "507"
+  },
+  {
+    "id": "190",
+    "name": "MLED-5-SMD",
+    "description": "Clip pl�stico de montaje para manguera de LED SMD",
+    "stock": "24667"
+  },
+  {
+    "id": "191",
+    "name": "MLED-60-1",
+    "description": "Cable c/doble conector de presi�n para tiras 3528 SMD",
+    "stock": "11364"
+  },
+  {
+    "id": "192",
+    "name": "MLED-60-1-2835",
+    "description": "Cable c/doble conector de presi�n para tiras 2835 SMD",
+    "stock": "6764"
+  },
+  {
+    "id": "193",
+    "name": "MLED-60-14.4W-5050/AZ",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, interior\"",
+    "stock": "143"
+  },
+  {
+    "id": "194",
+    "name": "MLED-60-14.4W-5050/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, interior\"",
+    "stock": "3857"
+  },
+  {
+    "id": "195",
+    "name": "MLED-60-14.4W-5050/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, interior\"",
+    "stock": "6"
+  },
+  {
+    "id": "196",
+    "name": "MLED-60-14.4W-5050/RO",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, interior\"",
+    "stock": "260"
+  },
+  {
+    "id": "197",
+    "name": "MLED-60-14.4W-5050/VE",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, interior\"",
+    "stock": "206"
+  },
+  {
+    "id": "198",
+    "name": "MLED-60-1-5050",
+    "description": "Cable c/doble conector de presi�n para tiras 5050 SMD",
+    "stock": "4890"
+  },
+  {
+    "id": "199",
+    "name": "MLED-60-1-RGB",
+    "description": "Cable c/doble conector de presi�n para tiras RGB",
+    "stock": "1745"
+  },
+  {
+    "id": "200",
+    "name": "MLED-60-1-RGBW",
+    "description": "Conector esquina para unir tiras RGBW",
+    "stock": "529"
+  },
+  {
+    "id": "201",
+    "name": "MLED-60-2",
+    "description": "Cable c/conector de presi�n y terminaci�n hembra para tiras 3528 SMD",
+    "stock": "1271"
+  },
+  {
+    "id": "202",
+    "name": "MLED-60-2-2835",
+    "description": "Cable c/conector de presi�n y terminaci�n hembra para tiras 2835 SMD",
+    "stock": "589"
+  },
+  {
+    "id": "203",
+    "name": "MLED-60-24W/CONTROL",
+    "description": "Driver con salida a 12V de 24 W para contacto plug-in",
+    "stock": "518"
+  },
+  {
+    "id": "204",
+    "name": "MLED-60-2-5050",
+    "description": "Cable c/conector de presi�n y terminaci�n hembra para tiras 5050 SMD",
+    "stock": "493"
+  },
+  {
+    "id": "205",
+    "name": "MLED-60-3",
+    "description": "\"\"Cable derivador de 6 salidas para tiras 3528, 5050 y 2835 SMD\"",
+    "stock": "508"
+  },
+  {
+    "id": "206",
+    "name": "MLED-60-4.8W-5/2500K",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "106"
+  },
+  {
+    "id": "207",
+    "name": "MLED-60-4.8W-5/AZ",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "433"
+  },
+  {
+    "id": "208",
+    "name": "MLED-60-4.8W-5/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "8882"
+  },
+  {
+    "id": "209",
+    "name": "MLED-60-4.8W-5/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "4377"
+  },
+  {
+    "id": "210",
+    "name": "MLED-60-4.8W-5/RO",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "378"
+  },
+  {
+    "id": "211",
+    "name": "MLED-60-4.8W-5/VE",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, interior\"",
+    "stock": "13"
+  },
+  {
+    "id": "212",
+    "name": "MLED-60-4-2835",
+    "description": "Cable c/conector de presi�n para tiras 2835 SMD",
+    "stock": "2339"
+  },
+  {
+    "id": "213",
+    "name": "MLED-60-4-3528",
+    "description": "Cable c/conector de presi�n para tiras 3528 SMD",
+    "stock": "4017"
+  },
+  {
+    "id": "214",
+    "name": "MLED-60-4-5050",
+    "description": "Cable c/conector de presi�n para tiras 5050 SMD",
+    "stock": "3652"
+  },
+  {
+    "id": "215",
+    "name": "MLED-60-4-RGB",
+    "description": "Cable c/conector de presi�n para tiras RGB",
+    "stock": "5421"
+  },
+  {
+    "id": "216",
+    "name": "MLED-60-4-RGBW",
+    "description": "Conector para tiras RGBW a driver de proyecto",
+    "stock": "62"
+  },
+  {
+    "id": "217",
+    "name": "MLED-60-5-2835",
+    "description": "Conector de presi�n para tiras 2835 SMD",
+    "stock": "1053"
+  },
+  {
+    "id": "218",
+    "name": "MLED-60-5-3528",
+    "description": "Conector de presi�n para tiras 3528 SMD",
+    "stock": "5459"
+  },
+  {
+    "id": "219",
+    "name": "MLED-60-5-5050",
+    "description": "Conector de presi�n para tiras 5050 SMD",
+    "stock": "2195"
+  },
+  {
+    "id": "220",
+    "name": "MLED-60-5-RGB",
+    "description": "Conector de presi�n para tiras RGB",
+    "stock": "977"
+  },
+  {
+    "id": "221",
+    "name": "MLED-60-5-RGBW",
+    "description": "Conector medio para unir tiras RGBW",
+    "stock": "110"
+  },
+  {
+    "id": "222",
+    "name": "MLED-60-6WP",
+    "description": "Conector con terminaci�n hembra-macho para tiras 3528, 5050, 2835 y m�dulos SMD",
+    "stock": "797"
+  },
+  {
+    "id": "223",
+    "name": "MLED-60-6WP-RGB",
+    "description": "Conector con terminaci�n hembra-macho para tiras RGB",
+    "stock": "921"
+  },
+  {
+    "id": "224",
+    "name": "MLED-60-7-KSILICON",
+    "description": "Kit de silic�n y tapones para aislar conexiones",
+    "stock": "1262"
+  },
+  {
+    "id": "225",
+    "name": "MLED-60-IP45-127V/AMB",
+    "description": "Tira Flexible de LED 3528 SMD 127V IP45 Ambar",
+    "stock": "2"
+  },
+  {
+    "id": "226",
+    "name": "MLED-60-IP45-127V/AZ",
+    "description": "Tira flexible de LED 3528 SMD 127V IP45 Azul",
+    "stock": "5"
+  },
+  {
+    "id": "227",
+    "name": "MLED-60-IP45-127V-CD/AMB",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD 127 V, exterior\"",
+    "stock": "497"
+  },
+  {
+    "id": "228",
+    "name": "MLED-60-IP45-127V-CD/AZ",
+    "description": "Tira flexible 60 LEDs x metro, 2835 SMD 127V Exterior",
+    "stock": "508"
+  },
+  {
+    "id": "229",
+    "name": "MLED-60-IP45-127V-CD/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD 127 V, exterior\"",
+    "stock": "21274"
+  },
+  {
+    "id": "230",
+    "name": "MLED-60-IP45-127V-CD/BN",
+    "description": "Tira flexible IP45, 60 LEDs x metro, 2835 SMD, 127V, Blanco Neutro",
+    "stock": "2452"
+  },
+  {
+    "id": "231",
+    "name": "MLED-60-IP45-127V-CD/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD 127 V, exterior\"",
+    "stock": "21637"
+  },
+  {
+    "id": "232",
+    "name": "MLED-60-IP45-127V-CD/RO",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD 127 V, exterior\"",
+    "stock": "193"
+  },
+  {
+    "id": "233",
+    "name": "MLED-60-IP45-127V-CD/VE",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD 127 V, exterior\"",
+    "stock": "248"
+  },
+  {
+    "id": "234",
+    "name": "MLED-60-IP45-5050-127V/AMB",
+    "description": "Tira Flexible de LED 5050 SMD 127V IP45 Ambar",
+    "stock": "4"
+  },
+  {
+    "id": "235",
+    "name": "MLED-60-IP45-5050-127V-CD/2500K",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD 127 V, exterior\"",
+    "stock": "1564"
+  },
+  {
+    "id": "236",
+    "name": "MLED-60-IP45-5050-127V-CD/AMB",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD 127 V, exterior\"",
+    "stock": "604"
+  },
+  {
+    "id": "237",
+    "name": "MLED-60-IP45-5050-127V-CD/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD 127 V, exterior\"",
+    "stock": "9517"
+  },
+  {
+    "id": "238",
+    "name": "MLED-60-IP45-5050-127V-CD/BN",
+    "description": "Tira flexible IP45, 60 LEDs x metro, 5050 SMD, 127V, Blanco Neutro",
+    "stock": "2995"
+  },
+  {
+    "id": "239",
+    "name": "MLED-60-IP45-5050-127V-CD/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD 127 V, exterior\"",
+    "stock": "2919"
+  },
+  {
+    "id": "240",
+    "name": "MLED-60-IP68-12V/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, sumergible\"",
+    "stock": "1634"
+  },
+  {
+    "id": "241",
+    "name": "MLED-60-IP68-12V/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, sumergible\"",
+    "stock": "750"
+  },
+  {
+    "id": "242",
+    "name": "MLED-60-IP68-12V/RO",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, sumergible\"",
+    "stock": "305"
+  },
+  {
+    "id": "243",
+    "name": "MLED-60-IP68-12V/VE",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, sumergible\"",
+    "stock": "1"
+  },
+  {
+    "id": "244",
+    "name": "MLED-60-IP68-5050/AZ",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, sumergible\"",
+    "stock": "1"
+  },
+  {
+    "id": "245",
+    "name": "MLED-60-IP68-5050/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, sumergible\"",
+    "stock": "1281"
+  },
+  {
+    "id": "246",
+    "name": "MLED-60-IP68-5050/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, sumergible\"",
+    "stock": "877"
+  },
+  {
+    "id": "247",
+    "name": "MLED-60-IP68-5050/RO",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, sumergible\"",
+    "stock": "32"
+  },
+  {
+    "id": "248",
+    "name": "MLED-60-IP68-5050/VE",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, sumergible\"",
+    "stock": "114"
+  },
+  {
+    "id": "249",
+    "name": "MLED-6-5050SMD",
+    "description": "Tapa fin pl�stica para manguera de LED 5050 SMD",
+    "stock": "3283"
+  },
+  {
+    "id": "250",
+    "name": "MLED-6-SMD",
+    "description": "Tapa fin pl�stica para manguera de LED SMD",
+    "stock": "2655"
+  },
+  {
+    "id": "251",
+    "name": "MLED-C/REMOTO-RGB",
+    "description": "Kit Controlador para Efectos de Luz para Tiras y M�dulos RGB",
+    "stock": "186"
+  },
+  {
+    "id": "252",
+    "name": "MLED-CONTROL-CCT-127V",
+    "description": "Control CCT",
+    "stock": "1330"
+  },
+  {
+    "id": "253",
+    "name": "MLED-CONTROL-RGB-127V",
+    "description": "Control RGBW",
+    "stock": "984"
+  },
+  {
+    "id": "254",
+    "name": "MLED-GF",
+    "description": "Grapa de pl�stico flexible para todo tipo de tira flexible",
+    "stock": "44767"
+  },
+  {
+    "id": "255",
+    "name": "MLEDK-30-IP68-12V/RGB",
+    "description": "Kit con tira flexible de LED 5050 SMD 12V IP68 RGB -KIT",
+    "stock": "39"
+  },
+  {
+    "id": "256",
+    "name": "MLED-NEON-1",
+    "description": "Cable alimentador con convertidor de corriente ca-cd 127V para manguera LED NEON",
+    "stock": "1130"
+  },
+  {
+    "id": "257",
+    "name": "MLED-NEON-10-127V/BC",
+    "description": "\"\"Manguera flexible 72 LEDs x metro, 5050 SMD NEON, exterior 10 m\"",
+    "stock": "569"
+  },
+  {
+    "id": "258",
+    "name": "MLED-NEON-20-127V/AZ",
+    "description": "\"\"Manguera flexible 72 LEDs x metro, 5050 SMD NEON, exterior 20 m\"",
+    "stock": "6"
+  },
+  {
+    "id": "259",
+    "name": "MLED-NEON-20-127V/BC",
+    "description": "\"\"Manguera flexible 72 LEDs x metro, 5050 SMD NEON, exterior 20 m\"",
+    "stock": "216"
+  },
+  {
+    "id": "260",
+    "name": "MLED-NEON-20-127V/LD",
+    "description": "\"\"Manguera flexible 72 LEDs x metro, 5050 SMD NEON, exterior 20 m\"",
+    "stock": "1"
+  },
+  {
+    "id": "261",
+    "name": "MLED-NEON-20-127V/RO",
+    "description": "\"\"Manguera flexible 72 LEDs x metro, 5050 SMD NEON, exterior 20 m\"",
+    "stock": "17"
+  },
+  {
+    "id": "262",
+    "name": "MLED-NEON-3",
+    "description": "Conector medio en I para manguera LED NEON",
+    "stock": "619"
+  },
+  {
+    "id": "263",
+    "name": "MLED-NEON-5",
+    "description": "Conector esquina flexible para mangura LED NEON",
+    "stock": "36"
+  },
+  {
+    "id": "264",
+    "name": "MLED-NEON-6",
+    "description": "Tapa fin pl�stica para manguera LED NEON",
+    "stock": "191"
+  },
+  {
+    "id": "265",
+    "name": "MLED-NEON-7",
+    "description": "Tubo pl�stico termo-contr�ctil 5 cm. para manguera LED NEON",
+    "stock": "2275"
+  },
+  {
+    "id": "266",
+    "name": "MLED-NEON-8",
+    "description": "100cm aluminium profile",
+    "stock": "364"
+  },
+  {
+    "id": "267",
+    "name": "MODLED-3P-5050/BC",
+    "description": "\"\"20 m�dulos lineales de pl�stico ABS con 3 LED 5050 SMD integrados, 12V IP65 Blanco C�lido - 20 pzs\"",
+    "stock": "1"
+  },
+  {
+    "id": "268",
+    "name": "MR16L-LED/001/30",
+    "description": "LAMP LED MR16 6W100-240V3000K550LM",
+    "stock": "20"
+  },
+  {
+    "id": "269",
+    "name": "ORIZZONTE-10M",
+    "description": "PERFIL 10M SUSPENDIDO PARA TIRA LED",
+    "stock": "17"
+  },
+  {
+    "id": "270",
+    "name": "ORIZZONTE-15M",
+    "description": "PERFIL 15M SUSPENDIDO PARA TIRA LED",
+    "stock": "7"
+  },
+  {
+    "id": "271",
+    "name": "ORIZZONTE-5M",
+    "description": "PERFIL 5M SUSPENDIDO PARA TIRA LED",
+    "stock": "11"
+  },
+  {
+    "id": "272",
+    "name": "OU2009GBCB",
+    "description": "WALKLIGHT LED 1.5W 3000K 127-220V GRIS",
+    "stock": "13"
+  },
+  {
+    "id": "273",
+    "name": "PEGASI-VII-BN-BC",
+    "description": "Luminario arbotante de tama�o corto en color blanco con iluminaci�n blanco calido",
+    "stock": "9"
+  },
+  {
+    "id": "274",
+    "name": "PEGASI-VII-BN-LD",
+    "description": "Luminario arbotante de tama�o corto en color blanco con iluminaci�n luz de d�a",
+    "stock": "7"
+  },
+  {
+    "id": "275",
+    "name": "PEGASI-VII-CH-BC",
+    "description": "Luminario arbotante de tama�o corto en color champagne con iluminaci�n blanco calido",
+    "stock": "5"
+  },
+  {
+    "id": "276",
+    "name": "PEGASI-VII-CH-LD",
+    "description": "Luminario arbotante de tama�o corto en color champagne con iluminaci�n luz de d�a",
+    "stock": "5"
+  },
+  {
+    "id": "277",
+    "name": "PEGASI-VII-GR-BC",
+    "description": "Luminario arbotante de tama�o corto en color gris con iluminaci�n blanco calido",
+    "stock": "5"
+  },
+  {
+    "id": "278",
+    "name": "PEGASI-VII-GR-LD",
+    "description": "Luminario arbotante de tama�o corto en color gris con iluminaci�n luz de d�a",
+    "stock": "5"
+  },
+  {
+    "id": "279",
+    "name": "PEGASI-VII-MN-BC",
+    "description": "Luminario arbotante de tama�o corto en color madera nogal con iluminaci�n blanco calido",
+    "stock": "11"
+  },
+  {
+    "id": "280",
+    "name": "PEGASI-VII-MN-LD",
+    "description": "Luminario arbotante de tama�o corto en color madera nogal con iluminaci�n luz de d�a",
+    "stock": "11"
+  },
+  {
+    "id": "281",
+    "name": "PEGASI-VII-MO-BC",
+    "description": "Luminario arbotante de tama�o corto en color madera obscura con iluminaci�n blanco calido",
+    "stock": "7"
+  },
+  {
+    "id": "282",
+    "name": "PEGASI-VII-MO-LD",
+    "description": "Luminario arbotante de tama�o corto en color madera obscura con iluminaci�n luz de d�a",
+    "stock": "7"
+  },
+  {
+    "id": "283",
+    "name": "PEGASI-VII-NG-BC",
+    "description": "Luminario arbotante de tama�o corto en color negro con iluminaci�n blanco calido",
+    "stock": "12"
+  },
+  {
+    "id": "284",
+    "name": "PEGASI-VII-NG-LD",
+    "description": "Luminario arbotante de tama�o corto en color negro con iluminaci�n luz de d�a",
+    "stock": "12"
+  },
+  {
+    "id": "285",
+    "name": "PL-100-AL",
+    "description": "Perfil lineal con disipador de calor y cubierta PC",
+    "stock": "4"
+  },
+  {
+    "id": "286",
+    "name": "PL-200-1111-3",
+    "description": "Grapa para perfil miniatura para esquina",
+    "stock": "9"
+  },
+  {
+    "id": "287",
+    "name": "PL-200-1111-AL",
+    "description": "Perfil miniatura para esquina",
+    "stock": "8"
+  },
+  {
+    "id": "288",
+    "name": "PL-200-13519-AL",
+    "description": "Perfil lineal de aluminio para incrustar en enjarre con difusor",
+    "stock": "95"
+  },
+  {
+    "id": "289",
+    "name": "PL-200-16019-BL",
+    "description": "Perfil lineal de aluminio empotrado en plafon con difusor",
+    "stock": "10"
+  },
+  {
+    "id": "290",
+    "name": "PL-200-1716-4",
+    "description": "Iman circular de sujecion para perfil",
+    "stock": "19"
+  },
+  {
+    "id": "291",
+    "name": "PL-200-1806-1",
+    "description": "Tapa para perfil flexible con salida",
+    "stock": "17"
+  },
+  {
+    "id": "292",
+    "name": "PL-200-1806-3",
+    "description": "Grapa de sujecion para perfil flexible",
+    "stock": "240"
+  },
+  {
+    "id": "293",
+    "name": "PL-200-1806-4",
+    "description": "Accesorio de union perfill a perfil",
+    "stock": "61"
+  },
+  {
+    "id": "294",
+    "name": "PL-200-1815-AL",
+    "description": "Perfil lineal con cobertura de medio circulo",
+    "stock": "1"
+  },
+  {
+    "id": "295",
+    "name": "PL-200-1908-1",
+    "description": "Tapa final para perfil DE ALUMINIO empotrado en piso sin salida",
+    "stock": "1033"
+  },
+  {
+    "id": "296",
+    "name": "PL-200-1908-2",
+    "description": "Tapa final para perfil DE ALUMINIO empotrado en piso CON salida",
+    "stock": "3343"
+  },
+  {
+    "id": "297",
+    "name": "PL-200-1908-3",
+    "description": "GRAPA DE MONTAJE para perfil DE ALUMINIO empotrado en piso",
+    "stock": "6054"
+  },
+  {
+    "id": "298",
+    "name": "PL-200-1908-AL",
+    "description": "Perfil lineal de aluminio empotrado en piso con difusor",
+    "stock": "1"
+  },
+  {
+    "id": "299",
+    "name": "PL-200-1913-4",
+    "description": "Iman de sujecion para perfil todas las versiones",
+    "stock": "578"
+  },
+  {
+    "id": "300",
+    "name": "PL-200-1913A-PCNG",
+    "description": "Cobertura version A para perfil 1913 lisa en negro",
+    "stock": "3"
+  },
+  {
+    "id": "301",
+    "name": "PL-200-1919U-2",
+    "description": "Tapa final para perfil de aluminio para esquina sin salida",
+    "stock": "1"
+  },
+  {
+    "id": "302",
+    "name": "PL-200-1919U-3",
+    "description": "Clip de montaje para perfil de aluminio para esquina",
+    "stock": "776"
+  },
+  {
+    "id": "303",
+    "name": "PL-200-1930-3",
+    "description": "Accesorio de soporte final",
+    "stock": "1083"
+  },
+  {
+    "id": "304",
+    "name": "PL-200-1970-1",
+    "description": "Tapa final para perfil DE ALUMINIO empotrado DE LUZ INDIRECTA CON salida",
+    "stock": "1693"
+  },
+  {
+    "id": "305",
+    "name": "PL-200-1970-2",
+    "description": "Tapa final para perfil DE ALUMINIO empotrado DE LUZ INDIRECTA SIN salida",
+    "stock": "1669"
+  },
+  {
+    "id": "306",
+    "name": "PL-200-1970-AL",
+    "description": "Perfil lineal de aluminio para luz indirecta sin difusor",
+    "stock": "285"
+  },
+  {
+    "id": "307",
+    "name": "PL-200-2020-1",
+    "description": "Tapa final para perfil de plastico circular SIN salida",
+    "stock": "154"
+  },
+  {
+    "id": "308",
+    "name": "PL-200-2020-2",
+    "description": "Tapa final para perfil de plastico circular con salida",
+    "stock": "11"
+  },
+  {
+    "id": "309",
+    "name": "PL-200-2020-PP",
+    "description": "Perfil lineal de plastico circular",
+    "stock": "96"
+  },
+  {
+    "id": "310",
+    "name": "PL-200-2319-PP",
+    "description": "Perfil lineal de plastico para sobreponer",
+    "stock": "101"
+  },
+  {
+    "id": "311",
+    "name": "PL-200-2416-1",
+    "description": "Tapa final para perfil rectangular con salida",
+    "stock": "44"
+  },
+  {
+    "id": "312",
+    "name": "PL-200-2416-2",
+    "description": "Tapa final para perfil rectangular sin salida",
+    "stock": "73"
+  },
+  {
+    "id": "313",
+    "name": "PL-200-2416-3",
+    "description": "Grapa de Sujecion para perfil rectangular",
+    "stock": "1444"
+  },
+  {
+    "id": "314",
+    "name": "PL-200-2416-4",
+    "description": "Iman circular de sujecion para perfil rectangular",
+    "stock": "407"
+  },
+  {
+    "id": "315",
+    "name": "PL-200-2416-6",
+    "description": "Conector a 90 en vertical para perfil rectangular",
+    "stock": "193"
+  },
+  {
+    "id": "316",
+    "name": "PL-200-2416-7",
+    "description": "Conector a 90 para perfil rectangular",
+    "stock": "1"
+  },
+  {
+    "id": "317",
+    "name": "PL-200-2416-8",
+    "description": "Conector a 45 en horizontal para perfil rectangular",
+    "stock": "208"
+  },
+  {
+    "id": "318",
+    "name": "PL-200-2416-9",
+    "description": "Concetor a 45 para perfil",
+    "stock": "195"
+  },
+  {
+    "id": "319",
+    "name": "PL-200-2416-NG",
+    "description": "Perfil rectangular lineal para empotrar en negro",
+    "stock": "29"
+  },
+  {
+    "id": "320",
+    "name": "PL-200-3031-1",
+    "description": "Tapa final para perfil de plastico para esquina SIN salida",
+    "stock": "11"
+  },
+  {
+    "id": "321",
+    "name": "PL-200-3031-PP",
+    "description": "Perfil lineal de plastico para esquinas",
+    "stock": "24"
+  },
+  {
+    "id": "322",
+    "name": "PL-200-5252-3",
+    "description": "Soporte para perfil tipo barandal",
+    "stock": "447"
+  },
+  {
+    "id": "323",
+    "name": "PL-200-5252-4",
+    "description": "Conector a 90 grados para perfil tipo barandal",
+    "stock": "30"
+  },
+  {
+    "id": "324",
+    "name": "PL-200-5252-5",
+    "description": "Conector a desnivel para perfil tipo barandal",
+    "stock": "29"
+  },
+  {
+    "id": "325",
+    "name": "PL-200-5252-6",
+    "description": "Conector a 135 grados para perfil tipo barandal",
+    "stock": "23"
+  },
+  {
+    "id": "326",
+    "name": "PL-200-5252-7",
+    "description": "Conector recto para perfil tipo barandal",
+    "stock": "56"
+  },
+  {
+    "id": "327",
+    "name": "PL-200-5252-AL",
+    "description": "Perfil lineal de aluminio tipo barandal",
+    "stock": "7"
+  },
+  {
+    "id": "328",
+    "name": "PL-200-5252-BC",
+    "description": "Perfil lineal de aluminio tipo barandal blanco",
+    "stock": "35"
+  },
+  {
+    "id": "329",
+    "name": "PL-200-5252-BC3",
+    "description": "Soporte blanco para perfil tipo barandal",
+    "stock": "258"
+  },
+  {
+    "id": "330",
+    "name": "PL-200-5252-BC4",
+    "description": "Conector blanco a 90 grados para perfil tipo barandal",
+    "stock": "12"
+  },
+  {
+    "id": "331",
+    "name": "PL-200-5252-BC5",
+    "description": "Conector blanco a desnivel para perfil tipo barandal",
+    "stock": "12"
+  },
+  {
+    "id": "332",
+    "name": "PL-200-5252-BC6",
+    "description": "Conector blanco a 135 grados para perfil tipo barandal",
+    "stock": "12"
+  },
+  {
+    "id": "333",
+    "name": "PL-200-5252-BC7",
+    "description": "Conector blanco recto para perfil tipo barandal",
+    "stock": "12"
+  },
+  {
+    "id": "334",
+    "name": "PL-200-5252-NG",
+    "description": "Perfil lineal de aluminio tipo barandal negro",
+    "stock": "2"
+  },
+  {
+    "id": "335",
+    "name": "PL-200-5252-NG3",
+    "description": "Soporte negro para perfil tipo barandal",
+    "stock": "770"
+  },
+  {
+    "id": "336",
+    "name": "PL-200-5252-NG4",
+    "description": "Conector negro a 90 grados para perfil tipo barandal",
+    "stock": "33"
+  },
+  {
+    "id": "337",
+    "name": "PL-200-5252-NG5",
+    "description": "Conector negro a desnivel para perfil tipo barandal",
+    "stock": "32"
+  },
+  {
+    "id": "338",
+    "name": "PL-200-5252-NG6",
+    "description": "Conector negro a 135 grados para perfil tipo barandal",
+    "stock": "14"
+  },
+  {
+    "id": "339",
+    "name": "PL-200-5252-NG7",
+    "description": "Conector negro recto para perfil tipo barandal",
+    "stock": "64"
+  },
+  {
+    "id": "340",
+    "name": "PL-200-6319-AL",
+    "description": "Perfil lineal de aluminio para empotrar en muro",
+    "stock": "239"
+  },
+  {
+    "id": "341",
+    "name": "PL-200-7024-1",
+    "description": "Tapa final para perfil de aluminio modular sin salida",
+    "stock": "3"
+  },
+  {
+    "id": "342",
+    "name": "PL-200-7024-2",
+    "description": "Tapa final para perfil de aluminio modular con salida",
+    "stock": "4"
+  },
+  {
+    "id": "343",
+    "name": "PL-ACC-CN",
+    "description": "Accesorio para Conexi�n",
+    "stock": "250"
+  },
+  {
+    "id": "344",
+    "name": "PL-ACC-CN-2",
+    "description": "Accesorio de conexion",
+    "stock": "35"
+  },
+  {
+    "id": "345",
+    "name": "PL-ACC-MO",
+    "description": "Accesorio para montaje sobrepuesto de perfil",
+    "stock": "165"
+  },
+  {
+    "id": "346",
+    "name": "PL-ACC-SP",
+    "description": "Accesorio para suspender Perfil",
+    "stock": "184"
+  },
+  {
+    "id": "347",
+    "name": "PL-ACC-UN",
+    "description": "Accesorio para Union entre perfiles",
+    "stock": "248"
+  },
+  {
+    "id": "348",
+    "name": "PL-ACC-UNL",
+    "description": "L de conexion 60 grados",
+    "stock": "129"
+  },
+  {
+    "id": "349",
+    "name": "PL-ACC-UNX",
+    "description": "Accesorio de conexion en X de 30 a 150 grados",
+    "stock": "95"
+  },
+  {
+    "id": "350",
+    "name": "PL-ACC-UNY",
+    "description": "Y de conexion 120 grados",
+    "stock": "118"
+  },
+  {
+    "id": "351",
+    "name": "PL-ACC-UN-YM",
+    "description": "Accesorio de conexion en Y de 30 a 150 grados",
+    "stock": "73"
+  },
+  {
+    "id": "352",
+    "name": "PL-L-AL",
+    "description": "Conexion en L para perfil",
+    "stock": "74"
+  },
+  {
+    "id": "353",
+    "name": "PL-L-AL-2",
+    "description": "Conexion en L",
+    "stock": "92"
+  },
+  {
+    "id": "354",
+    "name": "PL-LE-AL",
+    "description": "Conexi�n en L externa para Perfil",
+    "stock": "22"
+  },
+  {
+    "id": "355",
+    "name": "PL-LE-AL-2",
+    "description": "Conexion en L externa",
+    "stock": "98"
+  },
+  {
+    "id": "356",
+    "name": "PL-LE-NG-2",
+    "description": "Conexion en L externa en Negro",
+    "stock": "51"
+  },
+  {
+    "id": "357",
+    "name": "PL-LI-AL",
+    "description": "Conexi�n en L interna para Perfil",
+    "stock": "3"
+  },
+  {
+    "id": "358",
+    "name": "PL-LI-AL-2",
+    "description": "Conexion en L interna",
+    "stock": "98"
+  },
+  {
+    "id": "359",
+    "name": "PL-LI-NG-2",
+    "description": "Conexion en L interna en Negro",
+    "stock": "23"
+  },
+  {
+    "id": "360",
+    "name": "PL-L-NG-2",
+    "description": "Conexion en L en Negro",
+    "stock": "1"
+  },
+  {
+    "id": "361",
+    "name": "PLMX-200-1806-AL",
+    "description": "Perfil lineal de aluminio flexible en color aluminio",
+    "stock": "105"
+  },
+  {
+    "id": "362",
+    "name": "PLMX-250-1806-3",
+    "description": "Juego de tapas finales para perfil flexible en gris",
+    "stock": "156"
+  },
+  {
+    "id": "363",
+    "name": "PLMX-250-1806-4",
+    "description": "Grapa para perfil lineal flexible",
+    "stock": "369"
+  },
+  {
+    "id": "364",
+    "name": "PLMX-250-1806-AL",
+    "description": "Perfil lineal de aluminio flexible en color aluminio",
+    "stock": "3"
+  },
+  {
+    "id": "365",
+    "name": "PLMX-250-1913-S-AL",
+    "description": "Perfil lineal de aluminio para sobreponer en color aluminio",
+    "stock": "422"
+  },
+  {
+    "id": "366",
+    "name": "PLMX-250-1913-S-ALB",
+    "description": "Perfil lineal de aluminio para sobreponer en color brillante natural",
+    "stock": "81"
+  },
+  {
+    "id": "367",
+    "name": "PLMX-250-1913-S-BN",
+    "description": "Perfil lineal de aluminio para sobreponer en color blanco",
+    "stock": "37"
+  },
+  {
+    "id": "368",
+    "name": "PLMX-250-1913-S-CH",
+    "description": "Perfil lineal de aluminio para sobreponer en color champagne",
+    "stock": "47"
+  },
+  {
+    "id": "369",
+    "name": "PLMX-250-1913-S-GR",
+    "description": "Perfil lineal de aluminiopara sobreponer en color gris",
+    "stock": "84"
+  },
+  {
+    "id": "370",
+    "name": "PLMX-250-1913-S-MN",
+    "description": "Perfil lineal de aluminio para sobreponer en color madera nogal",
+    "stock": "71"
+  },
+  {
+    "id": "371",
+    "name": "PLMX-250-1913-S-MO",
+    "description": "Perfil lineal de aluminio para sobreponer en color madera obscura",
+    "stock": "85"
+  },
+  {
+    "id": "372",
+    "name": "PLMX-250-1913-S-NBR",
+    "description": "Perfil lineal de aluminio para sobreponer en color negro brillante",
+    "stock": "8"
+  },
+  {
+    "id": "373",
+    "name": "PLMX-250-1913-S-NG",
+    "description": "Perfil lineal de aluminio para sobreponer en color negro",
+    "stock": "4"
+  },
+  {
+    "id": "374",
+    "name": "PLMX-250-1913-S-NR",
+    "description": "Perfil lineal de aluminio para sobreponer en color negro rugoso",
+    "stock": "54"
+  },
+  {
+    "id": "375",
+    "name": "PLMX-250-1A-G",
+    "description": "Juego de tapas para perfil para cubierta A en gris",
+    "stock": "355"
+  },
+  {
+    "id": "376",
+    "name": "PLMX-250-1C-G",
+    "description": "Juego de tapas para perfil para cubierta C en gris",
+    "stock": "492"
+  },
+  {
+    "id": "377",
+    "name": "PLMX-250-1R-G",
+    "description": "Juego de tapas para perfil para cubierta R en gris",
+    "stock": "233"
+  },
+  {
+    "id": "378",
+    "name": "PLMX-250-2",
+    "description": "Accesorio de conexi�n a 90� horizontal",
+    "stock": "132"
+  },
+  {
+    "id": "379",
+    "name": "PLMX-250-2212-2",
+    "description": "Juego de 3 grapas de sujeci�n para perfil 2212",
+    "stock": "877"
+  },
+  {
+    "id": "380",
+    "name": "PLMX-250-2212-4",
+    "description": "Juego de tapas fin para perfil de empotrar en gris",
+    "stock": "821"
+  },
+  {
+    "id": "381",
+    "name": "PLMX-250-2212-AL",
+    "description": "\"\"Perfil lineal de aluminio, para empotrar en piso color aluminio\"",
+    "stock": "3127"
+  },
+  {
+    "id": "382",
+    "name": "PLMX-250-2613-AL",
+    "description": "Perfil lineal de aluminio para empotrar en color  aluminio",
+    "stock": "2558"
+  },
+  {
+    "id": "383",
+    "name": "PLMX-250-2613-NG",
+    "description": "Perfil lineal de aluminio para empotrar en color negro",
+    "stock": "89"
+  },
+  {
+    "id": "384",
+    "name": "PLMX-250-3",
+    "description": "Accesorio de conexi�n a 90� vertical",
+    "stock": "296"
+  },
+  {
+    "id": "385",
+    "name": "PLMX-250-4",
+    "description": "Accesorio de conexi�n a 45� horizontal",
+    "stock": "564"
+  },
+  {
+    "id": "386",
+    "name": "PLMX-250-5",
+    "description": "Accesorio de conexi�n a 45� vertical",
+    "stock": "328"
+  },
+  {
+    "id": "387",
+    "name": "PLMX-250-6113-AL",
+    "description": "Perfil lineal de aluminio para empotrar en tablaroca en color aluminio",
+    "stock": "14"
+  },
+  {
+    "id": "388",
+    "name": "PLMX-250-8452-11",
+    "description": "Accesorio de uni�n para perfil multiusos a 45� en vertical",
+    "stock": "181"
+  },
+  {
+    "id": "389",
+    "name": "PLMX-250-8452-4",
+    "description": "Accesorio de uni�n para perfil multiusos a 180�",
+    "stock": "207"
+  },
+  {
+    "id": "390",
+    "name": "PLMX-250-8452-5",
+    "description": "Accesorio de uni�n para perfil multiusos a 90�",
+    "stock": "196"
+  },
+  {
+    "id": "391",
+    "name": "PLMX-250-8452-6",
+    "description": "Accesorio de uni�n para perfil multiusos a 60�",
+    "stock": "93"
+  },
+  {
+    "id": "392",
+    "name": "PLMX-250-8452-7",
+    "description": "Accesorio de uni�n para perfil multiusos a 45�",
+    "stock": "140"
+  },
+  {
+    "id": "393",
+    "name": "PLMX-250-8452-AL",
+    "description": "Perfil lineal multiusos en color aluminio",
+    "stock": "558"
+  },
+  {
+    "id": "394",
+    "name": "PLMX-250-8452-BN",
+    "description": "Perfil lineal multiusos en color blanco",
+    "stock": "115"
+  },
+  {
+    "id": "395",
+    "name": "PLMX-250-8452-C2",
+    "description": "Cubierta antideslumbrante para perfil multiusos",
+    "stock": "235"
+  },
+  {
+    "id": "396",
+    "name": "PLMX-250-8452-NG",
+    "description": "Perfil lineal multiusos en color negro",
+    "stock": "171"
+  },
+  {
+    "id": "397",
+    "name": "PLMX-250-A-PC",
+    "description": "Cubierta para perfil lisa",
+    "stock": "102"
+  },
+  {
+    "id": "398",
+    "name": "PLMX-250-C-PC",
+    "description": "Cubierta para perfil de medio circulo",
+    "stock": "709"
+  },
+  {
+    "id": "399",
+    "name": "PLMX-250-R-PC",
+    "description": "Cubierta para perfil rectangular",
+    "stock": "306"
+  },
+  {
+    "id": "400",
+    "name": "PLMX-ACC-SP",
+    "description": "Accesorio para suspender perfil",
+    "stock": "262"
+  },
+  {
+    "id": "401",
+    "name": "PL-T-AL",
+    "description": "Conexi�n en T para perfil",
+    "stock": "20"
+  },
+  {
+    "id": "402",
+    "name": "PL-T-AL-2",
+    "description": "Conexion en T",
+    "stock": "87"
+  },
+  {
+    "id": "403",
+    "name": "PL-TF-AL",
+    "description": "Tapa fin para perfil",
+    "stock": "1608"
+  },
+  {
+    "id": "404",
+    "name": "PL-TF-AL-2",
+    "description": "Tapa fin para perfil",
+    "stock": "5"
+  },
+  {
+    "id": "405",
+    "name": "PL-T-NG-2",
+    "description": "Conexion en T en negro",
+    "stock": "50"
+  },
+  {
+    "id": "406",
+    "name": "PL-X-AL",
+    "description": "Conexi�n en X para Perfil",
+    "stock": "75"
+  },
+  {
+    "id": "407",
+    "name": "PL-X-AL-2",
+    "description": "Conexion en X",
+    "stock": "69"
+  },
+  {
+    "id": "408",
+    "name": "PL-X-NG-2",
+    "description": "Conexion en X en negro",
+    "stock": "48"
+  },
+  {
+    "id": "409",
+    "name": "PP-TK-LED",
+    "description": "placa con pegamento para tk-led-2x3w",
+    "stock": "10"
+  },
+  {
+    "id": "410",
+    "name": "PROD_ROLLO_SMART_FILM",
+    "description": "Metros de rollo de pelicula inteligente cambia transparencia",
+    "stock": "50"
+  },
+  {
+    "id": "411",
+    "name": "REFLED-C/17W/30/N",
+    "description": "Reflector cuadrado LED 3000K 17W IP65",
+    "stock": "217"
+  },
+  {
+    "id": "412",
+    "name": "REFLED-COB-35W-IP66-BS",
+    "description": "REFLECTOR DE ALTA POTENCIA BLUE SKY",
+    "stock": "75"
+  },
+  {
+    "id": "413",
+    "name": "REFLED-COB-35W-IP66-GY",
+    "description": "REFLECTOR DE ALTA POTENCIA GOLDEN YELLOW",
+    "stock": "99"
+  },
+  {
+    "id": "414",
+    "name": "REGLED-15W-TLED-1800k",
+    "description": "Regleta tipo tira LED",
+    "stock": "29"
+  },
+  {
+    "id": "415",
+    "name": "REGLED-15W-TLED-3000k",
+    "description": "Regleta tipo tira LED",
+    "stock": "79"
+  },
+  {
+    "id": "416",
+    "name": "REGLED-15W-TLED-6500k",
+    "description": "Regleta tipo tira LED",
+    "stock": "80"
+  },
+  {
+    "id": "417",
+    "name": "REGLED-40W-RGBW",
+    "description": "REGLETA RGBW CONTROLABLE",
+    "stock": "363"
+  },
+  {
+    "id": "418",
+    "name": "REGLED-48W/30/N",
+    "description": "Regleta para Ba�ar Pared 48W blanco calido",
+    "stock": "15"
+  },
+  {
+    "id": "419",
+    "name": "S14/LED/1W/127V/2200K",
+    "description": "Blister 2pzs Bulbo 1W E-27 blanco calido",
+    "stock": "26746"
+  },
+  {
+    "id": "420",
+    "name": "S14-LED-E27-1W/BC-24",
+    "description": "S14 Pack24pzs led Bulbo de filamento, 1W, cubierta de plastico transparente",
+    "stock": "4786"
+  },
+  {
+    "id": "421",
+    "name": "SB-TL-CT",
+    "description": "SENSOR ALIMENTADO POR BATERIAS CON TIRA LED DE UN METRO",
+    "stock": "579"
+  },
+  {
+    "id": "422",
+    "name": "SER-IP44-E27-24W-LEDS14",
+    "description": "Serie Led decorativa para exteriores 24 bombillas base E27",
+    "stock": "13258"
+  },
+  {
+    "id": "423",
+    "name": "SM-16F",
+    "description": "Sensor de movimiento infrarrojo 180� IP44",
+    "stock": "10"
+  },
+  {
+    "id": "424",
+    "name": "SM-16F-S",
+    "description": "Sensor movimiento 180 grados infrarrojo multiposici�n IP44",
+    "stock": "5417"
+  },
+  {
+    "id": "425",
+    "name": "SM-16F-S/2-PACK",
+    "description": "2pack - Sensor movimiento 180 grados infrarrojo multiposici�n IP44",
+    "stock": "2"
+  },
+  {
+    "id": "426",
+    "name": "SM-22-N",
+    "description": "Sensor movimiento 180 grados infrarrojo switch para pared",
+    "stock": "3428"
+  },
+  {
+    "id": "427",
+    "name": "SM-22-N/2-PACK",
+    "description": "2Pack - Sensor movimiento 180 grados infrarrojo switch para pared",
+    "stock": "2"
+  },
+  {
+    "id": "428",
+    "name": "SM-360-1S",
+    "description": "Sensor de movimiento Infrarojo 360� c/un sensor",
+    "stock": "1"
+  },
+  {
+    "id": "429",
+    "name": "SM-360-1S-N",
+    "description": "Sensor movimiento 360grados infrarrojo con sensor para sobreponer en techo",
+    "stock": "14554"
+  },
+  {
+    "id": "430",
+    "name": "SM-360-1S-N/3-PACK",
+    "description": "3Pack - Sensor movimiento 360grados infrarrojo con sensor para sobreponer en techo",
+    "stock": "2"
+  },
+  {
+    "id": "431",
+    "name": "SM-360-MINI",
+    "description": "SENSOR DE MOVIMIENTO MINIATURA",
+    "stock": "110"
+  },
+  {
+    "id": "432",
+    "name": "SM-360-MINI/4-PACK",
+    "description": "4 pack SENSOR DE MOVIMIENTO MINIATURA",
+    "stock": "2"
+  },
+  {
+    "id": "433",
+    "name": "SM-360-TS-N",
+    "description": "Sensor movimiento 360 grados infrarrojo con triple sensor para sobreponer en techo",
+    "stock": "7842"
+  },
+  {
+    "id": "434",
+    "name": "SM-360-TS-N/2-PACK",
+    "description": "2Pack - Sensor movimiento 360 grados infrarrojo con triple sensor para sobreponer en techo",
+    "stock": "2"
+  },
+  {
+    "id": "435",
+    "name": "SM-BDL-01",
+    "description": "SENSOR DE MOVIMIENTO CON TIRA LED",
+    "stock": "414"
+  },
+  {
+    "id": "436",
+    "name": "SM-BDL-02",
+    "description": "SENSOR DE MOVIMIENTO CON TIRA LED",
+    "stock": "108"
+  },
+  {
+    "id": "437",
+    "name": "SM-LN-BAT/4-Pack",
+    "description": "4-Pack SENSOR DE MOVIMIENTO CON LUZ DE NOCHE RECARGABLE",
+    "stock": "16448"
+  },
+  {
+    "id": "438",
+    "name": "SM-MO-360",
+    "description": "Sensor de movimiento de microondas 360�",
+    "stock": "1"
+  },
+  {
+    "id": "439",
+    "name": "SM-MO-360-S",
+    "description": "Sensor movimiento 360grados de microondas para sobreponer en techo",
+    "stock": "2937"
+  },
+  {
+    "id": "440",
+    "name": "SODI-2PK-PL-1930-TF",
+    "description": "2 PACK TAPAS FIN PARA PERFIL 1930 DE CLOSET CON Y SIN SALIDA",
+    "stock": "29"
+  },
+  {
+    "id": "441",
+    "name": "SODI-2PK-PL-2319-TF",
+    "description": "2 PACK TAPAS FIN PARA PERFIL 2319 DE PLASTICO PARA SOBREPONER CON Y SIN SALIDA",
+    "stock": "50"
+  },
+  {
+    "id": "442",
+    "name": "SODI-5PK-PL-1716-GP",
+    "description": "5 PACK GRAPAS DE SUJECION PARA PERFIL 17161",
+    "stock": "150"
+  },
+  {
+    "id": "443",
+    "name": "SODI-5PK-PL-1908-GP",
+    "description": "5 PACK GRAPA DE MONTAJE PARA PERFIL 1908 DE ALUMINIO EMPOTRADO EN PISO",
+    "stock": "100"
+  },
+  {
+    "id": "444",
+    "name": "SODI-5PK-PL-3031-GP",
+    "description": "5 PACK GRAPA DE MONTAJE PARA PERFIL 3031 DE PLASTICO PARA ESQUINA",
+    "stock": "50"
+  },
+  {
+    "id": "445",
+    "name": "SPI-16S+M16S",
+    "description": "Controlador Chaising",
+    "stock": "856"
+  },
+  {
+    "id": "446",
+    "name": "SR-2006",
+    "description": "Dimmer bajo voltaje de 0 a 10V",
+    "stock": "45"
+  },
+  {
+    "id": "447",
+    "name": "SR-2102B",
+    "description": "DECODIFICADOR DMX512 DE BAJO VOLTAJE",
+    "stock": "332"
+  },
+  {
+    "id": "448",
+    "name": "SR-2812-US3",
+    "description": "PANEL TOCUH PARA CONTOL DE DISPOSITIVOS DMX512",
+    "stock": "50"
+  },
+  {
+    "id": "449",
+    "name": "SR-2834B-DMX",
+    "description": "PANEL TOCUH DUAL PARA CONTOL DE DISPOSITIVOS DMX512",
+    "stock": "86"
+  },
+  {
+    "id": "450",
+    "name": "SR-3001",
+    "description": "REPETIDOR DE SE�AL PARA TIRAS DE BAJO VOLTAJE",
+    "stock": "498"
+  },
+  {
+    "id": "451",
+    "name": "T8IC-LED-18W/BN",
+    "description": "tubo T8 led de 18W",
+    "stock": "505"
+  },
+  {
+    "id": "452",
+    "name": "T8IC-LED-18W/LD",
+    "description": "tubo T8 led de 18W",
+    "stock": "327"
+  },
+  {
+    "id": "453",
+    "name": "TCHK-LED-5050/RGB",
+    "description": "Kit con tira digital flexible de LED 5050 SMD 12V IP45 RGB-CHASING",
+    "stock": "54"
+  },
+  {
+    "id": "454",
+    "name": "TCH-LED-5050/RGB",
+    "description": "\"\"Tira flexible 30 LEDs x metro, 5050 SMD, exterior\"",
+    "stock": "97"
+  },
+  {
+    "id": "455",
+    "name": "TI4.8W25-CON24W",
+    "description": "Kit de tira vintage con convertidor de corriente",
+    "stock": "2"
+  },
+  {
+    "id": "456",
+    "name": "TI4.8WAZ-CON24W",
+    "description": "Kit de tira azul con convertidor de corriente",
+    "stock": "1"
+  },
+  {
+    "id": "457",
+    "name": "TI4.8WLD-CON24W",
+    "description": "\"\"Tira Led de 5 Metros, para interior Luz de d�a\"",
+    "stock": "2"
+  },
+  {
+    "id": "458",
+    "name": "TI4.8WVE-CON24W",
+    "description": "Kit de tira verde con convertidor de corriente",
+    "stock": "2"
+  },
+  {
+    "id": "459",
+    "name": "TL-CI-3M",
+    "description": "KIT DE TIRA LED DE 3 MTS",
+    "stock": "1809"
+  },
+  {
+    "id": "460",
+    "name": "TL-CM-5M",
+    "description": "TIRA CON CONTROLADOR DE TEMPERATURA DE COLOR DE 5M.",
+    "stock": "148"
+  },
+  {
+    "id": "461",
+    "name": "TLED-168-2110/3000K",
+    "description": "\"\"Tira flexibe 168 LEDs x metro, 2110 SMD, interior \"",
+    "stock": "1489"
+  },
+  {
+    "id": "462",
+    "name": "TLED-168-2110/4000K",
+    "description": "Tira flexible de led 2110 de 4mm 4000k 24V",
+    "stock": "652"
+  },
+  {
+    "id": "463",
+    "name": "TLED-168-2110/6000K",
+    "description": "\"\"Tira flexibe 168 LEDs x metro, 2110 SMD, interior \"",
+    "stock": "114"
+  },
+  {
+    "id": "464",
+    "name": "TLED-2110-24V-1",
+    "description": "Conector de presion para tira 2110",
+    "stock": "645"
+  },
+  {
+    "id": "465",
+    "name": "TLED-240-2110-24V/1800K",
+    "description": "Tira flexible de LED 2110 SMD IP20 24V 5 metros 1800K",
+    "stock": "127"
+  },
+  {
+    "id": "466",
+    "name": "TLED-240-2110-24V/6000K",
+    "description": "Tira flexible de LED 2110 SMD IP20 24V 5 metros 6000K",
+    "stock": "1"
+  },
+  {
+    "id": "467",
+    "name": "TLED-240-2110-IP66/1800K",
+    "description": "Tira flexible de led 2110 SMD IP66 24V 5mts 1800k",
+    "stock": "313"
+  },
+  {
+    "id": "468",
+    "name": "TLED-240-2110-IP66/6000K",
+    "description": "Tira flexible de LED 2110 SMD IP66 24V 5 metros 6000K",
+    "stock": "293"
+  },
+  {
+    "id": "469",
+    "name": "TLED-240-2216/BC",
+    "description": "Tira flexible de LED 2216 SMD 12V Blanco Calido",
+    "stock": "3"
+  },
+  {
+    "id": "470",
+    "name": "TLED-240-2216/BN",
+    "description": "Tira flexible de LED 2216 SMD 12V Blanco Neutro",
+    "stock": "2"
+  },
+  {
+    "id": "471",
+    "name": "TLED-240-2216/LD",
+    "description": "Tira flexible de LED 2216 SMD 12V Luz de Dia",
+    "stock": "63"
+  },
+  {
+    "id": "472",
+    "name": "TLED-280-2110/1800K",
+    "description": "\"\"Tira flexible 280 LEDs x metro, 2110 SMD, 24V, interior 1800K\"",
+    "stock": "609"
+  },
+  {
+    "id": "473",
+    "name": "TLED-280-2110/3000K",
+    "description": "\"\"Tira flexible 280 LEDs x metro, 2110 SMD, 24V, interior BC\"",
+    "stock": "732"
+  },
+  {
+    "id": "474",
+    "name": "TLED-280-2110/4000K",
+    "description": "\"\"Tira flexible 280 LEDs x metro, 2110 SMD, 24V, interior BN\"",
+    "stock": "864"
+  },
+  {
+    "id": "475",
+    "name": "TLED-280-2110/6000K",
+    "description": "\"\"Tira flexible 280 LEDs x metro, 2110 SMD, 24V, interior LD\"",
+    "stock": "972"
+  },
+  {
+    "id": "476",
+    "name": "TLED-280-2110/DUAL",
+    "description": "\"\"Tira flexible 280 LEDs x metro, 2110 SMD, 24V, interior\"",
+    "stock": "244"
+  },
+  {
+    "id": "477",
+    "name": "TLED-280-2110-IP66-BC",
+    "description": "\"\"Tira flexible 280 LEDs, 2110 SMD, 24V, exterior\"",
+    "stock": "344"
+  },
+  {
+    "id": "478",
+    "name": "TLED-280-2110-IP66-BN",
+    "description": "\"\"Tira flexible 280 LEDs, 2110 SMD, 24V, exterior\"",
+    "stock": "490"
+  },
+  {
+    "id": "479",
+    "name": "TLED-2835-IP66-SS",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 2835 SMD, exterior\"",
+    "stock": "428"
+  },
+  {
+    "id": "480",
+    "name": "TLED-30-5050/RGB",
+    "description": "\"\"Tira flexible 30 LEDs x metro, 5050 SMD, interior\"",
+    "stock": "1787"
+  },
+  {
+    "id": "481",
+    "name": "TLED-30-IP68-12V/RGB",
+    "description": "\"\"Tira flexible 30 LEDs x metro, 5050 SMD, sumergible\"",
+    "stock": "304"
+  },
+  {
+    "id": "482",
+    "name": "TLED-60-IP67-RGBW/BC",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, exterior\"",
+    "stock": "456"
+  },
+  {
+    "id": "483",
+    "name": "TLED-60-IP67-RGBW/LD",
+    "description": "\"\"Tira flexible 60 LEDs x metro, 5050 SMD, exterior\"",
+    "stock": "13"
+  },
+  {
+    "id": "484",
+    "name": "TLED-COB-10W/BC",
+    "description": "\"\"Tira flexible 480 LEDs x metro, LED COB,  interior\"",
+    "stock": "1952"
+  },
+  {
+    "id": "485",
+    "name": "TLED-COB-10W/BN",
+    "description": "\"\"Tira flexible 480 LEDs x metro, LED COB,  interior\"",
+    "stock": "2783"
+  },
+  {
+    "id": "486",
+    "name": "TLED-COB-10W/LD",
+    "description": "\"\"Tira flexible 480 LEDs x metro, LED COB,  interior\"",
+    "stock": "398"
+  },
+  {
+    "id": "487",
+    "name": "TLED-COB-15W/RGB",
+    "description": "Tira RGB flexible 420 LEDs x metro, LED COB,  interior",
+    "stock": "565"
+  },
+  {
+    "id": "488",
+    "name": "TLED-CON-H",
+    "description": "Conector para conexiones en paralelo",
+    "stock": "1056"
+  },
+  {
+    "id": "489",
+    "name": "TLED-CON-T",
+    "description": "Conector para conexiones en serie",
+    "stock": "459"
+  },
+  {
+    "id": "490",
+    "name": "TLLED-401/5.5W/30B",
+    "description": "NTERIOR ARBOTANTES LED5.5W100-240V3000K",
+    "stock": "14"
+  },
+  {
+    "id": "491",
+    "name": "TL-RGB-1M",
+    "description": "TIRA LED RGB DE 1.5 M CON SENSOR DE MOVIMIENTO",
+    "stock": "511"
+  },
+  {
+    "id": "492",
+    "name": "TL-RGB-2M",
+    "description": "Tira Led RGB de 3 Metros con Sensor de movimiento",
+    "stock": "1022"
+  },
+  {
+    "id": "493",
+    "name": "TL-RGB-CI",
+    "description": "TIRA LED RGB CON CONTROLADOR DE INFRAROJO",
+    "stock": "4833"
+  },
+  {
+    "id": "494",
+    "name": "TL-RGBW-CI",
+    "description": "Tira RGBW Controlada Mediante Infrarrojo",
+    "stock": "1694"
+  },
+  {
+    "id": "495",
+    "name": "TM-100/FR",
+    "description": "TecnoModul de 60 LED 5050 SMD 12V 4000K 100cm Cubierta Aperlada",
+    "stock": "30"
+  },
+  {
+    "id": "496",
+    "name": "TME-1",
+    "description": "Cable alimentador con clavija",
+    "stock": "244"
+  },
+  {
+    "id": "497",
+    "name": "TME-2",
+    "description": "Conector esquina 50 cms",
+    "stock": "773"
+  },
+  {
+    "id": "498",
+    "name": "TME-3",
+    "description": "Conector esquina 100 cms",
+    "stock": "162"
+  },
+  {
+    "id": "499",
+    "name": "TME-5",
+    "description": "Grapa Plastica",
+    "stock": "4157"
+  },
+  {
+    "id": "500",
+    "name": "TME-5050-IP65-100/LD",
+    "description": "Barra rigida Plastico 100 cms de LED 5050 SMD 127V IP65 Luz de D�a",
+    "stock": "379"
+  },
+  {
+    "id": "501",
+    "name": "TME-5050-IP65-50/LD",
+    "description": "Barra rigida Plastico 50 cms de LED 5050 SMD 127V IP65 Luz de D�a",
+    "stock": "460"
+  },
+  {
+    "id": "502",
+    "name": "TME-6",
+    "description": "Tapa Fin",
+    "stock": "12"
+  },
+  {
+    "id": "503",
+    "name": "TSM-007/LED-S",
+    "description": "Arbotante con sensor de movimiento PIR",
+    "stock": "1556"
+  },
+  {
+    "id": "504",
+    "name": "TSM-010-SOL",
+    "description": "ARBOTANTE DE LED SOLAR CON SENSOR DE MOVIMIENTO",
+    "stock": "499"
+  },
+  {
+    "id": "505",
+    "name": "TT-158",
+    "description": "Temporizador (Timer) Digital p/interior Doble contacto",
+    "stock": "3421"
+  },
+  {
+    "id": "506",
+    "name": "TT-158/2-PACK",
+    "description": "2Pack - Temporizador (Timer) Digital p/interior Doble contacto",
+    "stock": "2"
+  },
+  {
+    "id": "507",
+    "name": "TTM-158",
+    "description": "Temporizador (Timer) Mecanico p/interior Doble contacto",
+    "stock": "3575"
+  },
+  {
+    "id": "508",
+    "name": "TTM-158/2-PACK",
+    "description": "2Pack - Temporizador (Timer) Mecanico p/interior Doble contacto",
+    "stock": "2"
+  },
+  {
+    "id": "509",
+    "name": "TTME-158",
+    "description": "Temporizador (Timer) Mecanico IP63",
+    "stock": "733"
+  },
+  {
+    "id": "510",
+    "name": "TTME-158/2-PACK",
+    "description": "2Pack - Temporizador (Timer) Mecanico IP63",
+    "stock": "2"
+  },
+  {
+    "id": "511",
+    "name": "USB-POP-C/BN",
+    "description": "CARGADOR USB TIPO POP-UP EN COLOR BLANCO",
+    "stock": "468"
+  },
+  {
+    "id": "512",
+    "name": "USB-POP-C/NG",
+    "description": "CARGADOR USB TIPO POP-UP EN COLOR NEGRO",
+    "stock": "433"
+  },
+  {
+    "id": "513",
+    "name": "USB-POP-C/SS",
+    "description": "CARGADOR USB TIPO POP-UP EN COLOR METAL",
+    "stock": "468"
+  },
+  {
+    "id": "514",
+    "name": "VISTACAM700-SL-100",
+    "description": "C�mara HD Horus",
+    "stock": "86"
+  },
+  {
+    "id": "515",
+    "name": "WIFI-101-CT",
+    "description": "CONTROLADOR WIFI DE TEMPERATURA DUAL",
+    "stock": "1"
+  },
+  {
+    "id": "516",
+    "name": "YD-339/B",
+    "description": "INTERIOR EMPOTRADOS S/L100-240/12VGX5.3",
+    "stock": "32"
+  },
+  {
+    "id": "517",
+    "name": "YRD226-NR-619",
+    "description": "Cerrojo Real Living Niquel Satinado",
+    "stock": "1"
+  },
+  {
+    "id": "518",
+    "name": "YRL221",
+    "description": "Manija Real Living YRL221",
+    "stock": "2"
+  },
+  {
+    "id": "519",
+    "name": "YRL221-Z",
+    "description": "Manija Real Living YRL221 + Modulo Z-Wave",
+    "stock": "1"
+  },
+  {
+    "id": "520",
+    "name": "ZD-2102US-5",
+    "description": "Sensor de Puerta/ Ventana Horus",
+    "stock": "1152"
+  },
+  {
+    "id": "521",
+    "name": "ZP-3102US-5",
+    "description": "Sensor de Movimiento Horus",
+    "stock": "823"
+  },
+  {
+    "id": "522",
+    "name": "ZW080-A17",
+    "description": "Sirena Horus",
+    "stock": "121"
+  },
+  {
+    "id": "523",
+    "name": "ZW095",
+    "description": "Medidor de Energia Trifasico Aeotec",
+    "stock": "4"
+  },
+  {
+    "id": "524",
+    "name": "ZW32",
+    "description": "Toma Corriente Horus",
+    "stock": "372"
+  },
+  {
+    "id": "525",
+    "name": "ZwaveMX89522",
+    "description": "M�dulo Z-Wave Plus Assure & Real Living 2",
+    "stock": "99"
+  },
+  {
+    "id": "526",
+    "name": "ZXT-600-US",
+    "description": "Termostato para Minisplit v2",
+    "stock": "178"
+  },
+  {
+    "id": "0",
+    "name": "hub",
+    "description": "controler",
+    "stock": 1
+  }
+]

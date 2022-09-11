@@ -1,54 +1,65 @@
 import * as React from "react";
-import {
-  ListItemButton,
-  ListItemIcon,
-  ListItemText,
-  ListSubheader,
-} from "@mui/material";
+import { ListItemButton, ListItemIcon, ListItemText } from "@mui/material";
 
 import DashboardIcon from "@mui/icons-material/Dashboard";
-import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import PeopleIcon from "@mui/icons-material/People";
 import BarChartIcon from "@mui/icons-material/BarChart";
-import LayersIcon from "@mui/icons-material/Layers";
 import AssignmentIcon from "@mui/icons-material/Assignment";
 import InventoryIcon from "@mui/icons-material/Inventory";
 import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
+import { useLocation } from "react-router-dom";
+import { routes } from "./constants";
+
+const routeIcons: { [k: string]: typeof DashboardIcon } = {
+  dashboard: DashboardIcon,
+  inventory: InventoryIcon,
+  reports: AssignmentIcon,
+  calendar: CalendarMonthIcon,
+  charts: BarChartIcon,
+};
+
+function getIcon(path: string) {
+  return routeIcons[path] || routeIcons.reports;
+}
+
+const ListItem = (props: any) => {
+  const { pathname, selected, navigate, title } = props;
+  const Icon = getIcon(pathname);
+  return (
+    <ListItemButton onClick={() => navigate(`/${pathname}`)}>
+      <ListItemIcon>
+        <Icon
+          sx={{
+            ...(selected && {
+              color: (theme: any) => theme.palette.secondary.light,
+            }),
+          }}
+        />
+      </ListItemIcon>
+      <ListItemText
+        sx={{
+          ...(selected && {
+            ".MuiListItemText-primary": {
+              color: (theme) => theme.palette.secondary.light,
+            },
+          }),
+        }}
+        primary={title}
+      />
+    </ListItemButton>
+  );
+};
 
 export const MainListItems = (props: any) => {
+  const { pathname } = useLocation();
   const { navigate } = props;
-  return (
-    <>
-      <ListItemButton onClick={() => navigate("/dashboard")}>
-        <ListItemIcon>
-          <DashboardIcon />
-        </ListItemIcon>
-        <ListItemText primary="Inicio" />
-      </ListItemButton>
-      <ListItemButton onClick={() => navigate("/inventory")}>
-        <ListItemIcon>
-          <InventoryIcon />
-        </ListItemIcon>
-        <ListItemText primary="Inventario" />
-      </ListItemButton>
-      <ListItemButton onClick={() => navigate("/reports")}>
-        <ListItemIcon>
-          <AssignmentIcon />
-        </ListItemIcon>
-        <ListItemText primary="Reportes" />
-      </ListItemButton>
-      <ListItemButton onClick={() => navigate("/calendar")}>
-        <ListItemIcon>
-          <CalendarMonthIcon />
-        </ListItemIcon>
-        <ListItemText primary="Calendario" />
-      </ListItemButton>
-      <ListItemButton onClick={() => navigate("/charts")}>
-        <ListItemIcon>
-          <BarChartIcon />
-        </ListItemIcon>
-        <ListItemText primary="Gráficas" />
-      </ListItemButton>
-    </>
-  );
+  const listItems = Object.keys(routes).map((key, index) => (
+    <ListItem
+      key={key + index}
+      pathname={key}
+      title={routes[key]}
+      navigate={navigate}
+      selected={pathname.includes(key)}
+    />
+  ));
+  return <>{listItems}</>;
 };

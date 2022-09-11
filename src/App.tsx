@@ -5,6 +5,7 @@ import { Outlet } from "react-router-dom";
 
 import awsExports from "./aws-exports";
 import { Layout } from "./pages/layout/layout";
+import { AppContextProvider } from "./services/context";
 Amplify.configure(awsExports);
 
 const App = (props: any) => {
@@ -13,9 +14,11 @@ const App = (props: any) => {
 
 const AuthApp = ({ signOut, user }: any) => {
   return (
-    <App signOut={signOut} user={user}>
-      <Outlet />
-    </App>
+    <AppContextProvider>
+      <App signOut={signOut} user={user}>
+        <Outlet />
+      </App>
+    </AppContextProvider>
   );
 };
 
