@@ -1,4 +1,12 @@
-import { Card, Typography, CardContent, Box, Link } from "@mui/material";
+import {
+  Card,
+  Typography,
+  CardContent,
+  Box,
+  Link,
+  IconButton,
+  CardMedia,
+} from "@mui/material";
 
 import {
   AttachMoney,
@@ -8,6 +16,7 @@ import {
   WarningAmber,
 } from "@mui/icons-material";
 import SmallInfoCard from "./small-info-card";
+import chart from "../../assets/Chart.png";
 
 export const Dashboard = () => {
   return (
@@ -19,10 +28,12 @@ export const Dashboard = () => {
           </Typography>
           <br />
           <Typography variant="body2" color="textSecondary" component="p">
-            Alguna información importante aquí...
+            La información más importante sobre tu producto aquí...
           </Typography>
           <br />
         </CardContent>
+
+        <img src={chart} alt="chart" />
       </Card>
 
       <Box component="div" sx={{ display: "flex" }}>
@@ -110,14 +121,6 @@ const TEST_GRADIENT =
 
 const RoundIconCard = (props: any) => {
   return (
-    <Box
-      sx={{
-        borderRadius: "100%",
-        background: TEST_GRADIENT,
-        padding: 1,
-      }}
-    >
-      {props.children}
-    </Box>
+    <IconButton sx={{ background: TEST_GRADIENT }}>{props.children}</IconButton>
   );
 };

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import logo from "../../assets/logo.svg";
 import {
   Badge,
   Box,
@@ -54,8 +55,27 @@ export const Layout = (props: any) => {
           px: [1],
         }}
       >
-        <Box sx={{ display: "flex", flexDirection: "column", margin: 1 }}>
-          <MenuAvatar />
+        <Box
+          sx={{
+            display: "flex",
+            flexDirection: "column",
+            margin: 1,
+            height: 200,
+          }}
+        >
+          <img
+            style={{
+              opacity: open ? 1 : 0,
+              transition: "all 0.2s",
+              marginTop: 20,
+            }}
+            height={90}
+            src={logo}
+            alt="logo"
+          />
+          <Box sx={{ mt: 2, ...(!open && { opacity: 0 }) }}>
+            <MenuAvatar />
+          </Box>
           <IconButton
             sx={{
               position: "absolute",
@@ -121,7 +141,7 @@ export const Layout = (props: any) => {
             >
               {getNavTitle(location.pathname)}
             </Typography>
-            <IconButton color="inherit" onClick={toggleModal}>
+            <IconButton color="inherit">
               <Badge badgeContent={3} color="secondary">
                 <NotificationsIcon />
               </Badge>
